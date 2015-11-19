@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-nl
 title: "Marc DE BLOCK"
 pubdate: "2015-09-17 00:10:00"
 factdate: "2010-09-06 00:09:00"

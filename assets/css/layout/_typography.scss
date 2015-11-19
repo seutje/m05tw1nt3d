@@ -1,11 +1,28 @@
 // Typography
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
+
+body {
+    font-size: 1.8em;
+}
 
 // basic font styles
-h2.b_title {
+h2.b_title, p, ul {
 	font-family: 'Courier New', monospace;
     width: 100%;
+}
+
+h2.b_title {
     text-align: center;
 }
+
+
+
+.post h1,  { 
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+
+}
+    
 
 hr {
     border: 0;

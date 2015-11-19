@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-nl
 title: "Jean-Claude LACOTE"
 pubdate: "2015-09-15 00:10:00"
 factdate: "2011-12-15 00:09:00"

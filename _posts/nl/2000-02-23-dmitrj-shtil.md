@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-nl
 title: "Dmitrj SHTIL"
 pubdate: "2000-02-23 00:10:00"
 factdate: "2000-02-07 00:09:00"

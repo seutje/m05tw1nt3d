@@ -82,4 +82,9 @@ ul.polaroids a {
   -moz-box-shadow: 0 3px 6px rgba(0,0,0,.5);
 }
 
+ul.polaroids a.small {
+    max-width: 100px;
+    font-size: .8em;
+}
+
 
