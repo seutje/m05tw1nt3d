@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Ahmed HADDAD"
-pubdate: "2015-09-21 00:10:00"
-factdate: "2013-08-17 00:09:00"
+title: "Soufiane Mezroui"
+pubdate: "2015-02-11 00:10:00"
+factdate: "2013-02-11 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+thumb: "http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"
+title-attr: Soufiane Mezroui
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
-           <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" title="Soufiane Mezroui">
+           <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"  width="175" ></a>
       </li>  
 
   </ul>
@@ -28,22 +28,21 @@ title-attr: Ahmed Haddad
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 20 jaar</li>
+<li>Veroordeling: 5 jaar</li>
 <li>Geslacht: man</li>
-<li>Geboortedatum: 06/11/1973</li>
-<li>Nationaliteit: Marrokaan</li>
-<li>Etnische origine: Beni Boughadar, Marokko</li>
+<li>Geboortedatum: 27/07/1992</li>
 <li>Talen: Arabisch</li>
 <li>Alias: /</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Ahmed HADDAD (°06/11/1973 - Beni Boughafar, Marokko).</p>
+<p>De voortvluchtige Soufiane MEZROUI (°27/07/1992) - alias Abu Basir was een actief lid van de terroristische groep Sharia4Belgium. Als lid van deze organisatie was hij de vaste ontvanger van de groeps-sms'en.</p>
 
-<p>Op 17 augustus 2013 bracht hij verschillende messteken toe aan zijn ex-vrouw in het bijzijn van hun 3 jonge kinderen. Hij liet het slachtoffer voor dood achter maar zij overleefde bij wonder de moordpoging.</p>
-<p>Ahmed HADDAD werd op 19 november 2014 door de correctionele rechtbank van Brussel tot 20 jaar gevangenisstraf veroordeeld wegens poging tot moord.</p>
+<p>Hij vertrok naar Syrië, waar hij zich aansloot bij Jabhat Al-Nursa.</p>
 
-<p>Verspreid op 21/09/2015 op verzoek van FAST.</p>
+<p>Binnen deze terroristische groep voert Soufiane MEZROUI een sektarische gewelddadige strijd tegen Sjiieten en alle ongelovigen.</p>
+
+<p>Hij werd hiervoor door de Rechtbank van eerste aanleg te Antwerpen veroordeeld tot een gevangenisstraf van 5 jaar met onmiddellijke aanhouding. (vonnis 11 februari 2015)</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -61,20 +60,12 @@ title-attr: Ahmed Haddad
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" alt="Soufiane Meroui" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
-
-      <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
-        <div class="carousel-caption">
-
-        </div>
-      </div>
-  
     </div>
 
     <!-- Left and right controls -->

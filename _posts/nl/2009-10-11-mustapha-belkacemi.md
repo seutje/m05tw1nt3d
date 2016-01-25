@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Ahmed HADDAD"
-pubdate: "2015-09-21 00:10:00"
-factdate: "2013-08-17 00:09:00"
+title: "Mustapha Belkacemi"
+pubdate: "2009-10-11 00:10:00"
+factdate: "2009-03-15 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+thumb: "http://www.politie.be/files/fed/attachments/400x500x46fb8a2b7c2176d1ed36a14b525ec322_thumb.jpg.pagespeed.ic.kbCqBPoY_N.jpg"
+title-attr: Mustapha Belkacemi
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
-           <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x46fb8a2b7c2176d1ed36a14b525ec322_thumb.jpg.pagespeed.ic.kbCqBPoY_N.jpg" title="Mustapha Belkacemi">
+           <img src="http://www.politie.be/files/fed/attachments/400x500x46fb8a2b7c2176d1ed36a14b525ec322_thumb.jpg.pagespeed.ic.kbCqBPoY_N.jpg" ></a>
       </li>  
 
   </ul>
@@ -28,22 +28,17 @@ title-attr: Ahmed Haddad
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 20 jaar</li>
 <li>Geslacht: man</li>
-<li>Geboortedatum: 06/11/1973</li>
-<li>Nationaliteit: Marrokaan</li>
-<li>Etnische origine: Beni Boughadar, Marokko</li>
-<li>Talen: Arabisch</li>
-<li>Alias: /</li>
+<li>Geboortedatum: 08/07/1972</li>
+<li>Nationaliteit: Algerijn</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Ahmed HADDAD (°06/11/1973 - Beni Boughafar, Marokko).</p>
+<p>Op vrijdag 11 oktober 2009 werd Luc VERHEYEN dood aangetroffen in zijn woning aan de « rue Joseph Dejardin » in Grâce-Hollogne.Er was in zijn woning ingebroken en de dader ging er vandoor met de wagen van het slachtoffer.</p>
 
-<p>Op 17 augustus 2013 bracht hij verschillende messteken toe aan zijn ex-vrouw in het bijzijn van hun 3 jonge kinderen. Hij liet het slachtoffer voor dood achter maar zij overleefde bij wonder de moordpoging.</p>
-<p>Ahmed HADDAD werd op 19 november 2014 door de correctionele rechtbank van Brussel tot 20 jaar gevangenisstraf veroordeeld wegens poging tot moord.</p>
+<p><p>De politie is nu op zoek naar een man die misschien meer weet over de feiten.Het gaat om Mustapha BELKACEMI (°08/07/1972), waarschijnlijk met Algerijnse nationaliteit. Vermoedelijk gebruikt hij verschillende namen. Hij is normaal gebouwd, 1m69 lang en heeft zwart haar. Mogelijk verblijft hij in ons land, meer bepaald in de omgeving van Luik.</p>
 
-<p>Verspreid op 21/09/2015 op verzoek van FAST.</p>
+<p>Verspreid op 29-01-2010 op verzoek van de Procureur des Konings van Luik</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -53,15 +48,13 @@ title-attr: Ahmed Haddad
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x46fb8a2b7c2176d1ed36a14b525ec322_thumb.jpg.pagespeed.ic.kbCqBPoY_N.jpg" alt="Mustapha Belkacemi" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
@@ -69,7 +62,7 @@ title-attr: Ahmed Haddad
       </div>
 
       <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/640xNx78895468c9db9a86306fa917821e88b9_thumb.JPG.pagespeed.ic.9qcFu2ZjSw.jpg" alt="Mustapha Belkacemi" width="460" height="345">
         <div class="carousel-caption">
 
         </div>

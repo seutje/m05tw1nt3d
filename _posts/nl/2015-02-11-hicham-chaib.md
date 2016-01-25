@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Ahmed HADDAD"
-pubdate: "2015-09-21 00:10:00"
-factdate: "2013-08-17 00:09:00"
+title: "Hicham Chaib"
+pubdate: "2015-02-11 00:10:00"
+factdate: "2015-02-11 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+thumb: "http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg"
+title-attr: Hicham Chaib
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
-           <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" title="Hachim Chaub">
+           <img src="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" width="175"  ></a>
       </li>  
 
   </ul>
@@ -52,30 +52,20 @@ title-attr: Ahmed Haddad
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
+
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" alt="Hachim Chaib" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
 
-      <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
-        <div class="carousel-caption">
-
-        </div>
-      </div>
-  
-    </div>
 
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

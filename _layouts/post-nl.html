@@ -20,7 +20,7 @@ layout: default-nl
     {% for post in site.categories.dutch %}
        <li class="col-md-2">  
          <a class="thumbnail small" title="{{post.title-attr}}" href="{{ post.url }}">
-           <img src="{{ site.baseurl }}/{{ post.thumb }}"></a>
+           <img src="{{ post.thumb }}"></a>
       </li>
      
     {% endfor %}

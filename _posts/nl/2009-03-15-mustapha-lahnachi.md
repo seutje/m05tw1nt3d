@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Ahmed HADDAD"
-pubdate: "2015-09-21 00:10:00"
-factdate: "2013-08-17 00:09:00"
+title: "Mustapha Lahnachi"
+pubdate: "2009-03-15 00:10:00"
+factdate: "2009-03-15 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+thumb: "http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg"
+title-attr: Mustapha Lahnachi
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
-           <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" title="Mustapha Lahnaci">
+           <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpgg" width="175" ></a>
       </li>  
 
   </ul>
@@ -38,12 +38,9 @@ title-attr: Ahmed Haddad
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Ahmed HADDAD (°06/11/1973 - Beni Boughafar, Marokko).</p>
+<p>Op zondagochtend 15 maart 2009 zijn 3 gevangenen uit de gevangenis van Ittre ontsnapt met gijzelname en verwonding van een bewaker die werd vrijgelaten in de buurt van de gevangenis. Twee van de ontsnapte gevangenen werden kort na de ontsnapping opgepakt, maar Mustapha LAHNACHI (°01/11/1978) is nog steeds voortvluchtig en gewelddadig. Voor deze feiten werd hij op 15 oktober 2009 door de correctionele rechtbank van Nijvel tot een gevangenisstraf van 6 jaar veroordeeld.</p>
 
-<p>Op 17 augustus 2013 bracht hij verschillende messteken toe aan zijn ex-vrouw in het bijzijn van hun 3 jonge kinderen. Hij liet het slachtoffer voor dood achter maar zij overleefde bij wonder de moordpoging.</p>
-<p>Ahmed HADDAD werd op 19 november 2014 door de correctionele rechtbank van Brussel tot 20 jaar gevangenisstraf veroordeeld wegens poging tot moord.</p>
-
-<p>Verspreid op 21/09/2015 op verzoek van FAST.</p>
+<p>Verspreid op 26-08-2015 op verzoek van het parket van Nijvel</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -52,26 +49,16 @@ title-attr: Ahmed Haddad
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" alt="Mustapha Lahnaci" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
-        <div class="carousel-caption">
-
         </div>
       </div>
   

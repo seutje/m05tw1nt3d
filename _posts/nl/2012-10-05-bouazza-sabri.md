@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Ahmed HADDAD"
-pubdate: "2015-09-21 00:10:00"
-factdate: "2013-08-17 00:09:00"
+title: "Bouazza Sabri"
+pubdate: "2012-10-05 00:10:00"
+factdate: "2012-10-05 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+thumb: "http://www.politie.be/files/fed/attachments/400x500x19a321c67ed5f64da4536997a0cfb706_thumb.jpg.pagespeed.ic.vBRrP122UX.jpg"
+title-attr: Bouazza Sabri
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
-           <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Bouazza Sabri">
+           <img src="http://www.politie.be/files/fed/attachments/400x500x19a321c67ed5f64da4536997a0cfb706_thumb.jpg.pagespeed.ic.vBRrP122UX.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -28,22 +28,14 @@ title-attr: Ahmed Haddad
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 20 jaar</li>
 <li>Geslacht: man</li>
-<li>Geboortedatum: 06/11/1973</li>
-<li>Nationaliteit: Marrokaan</li>
-<li>Etnische origine: Beni Boughadar, Marokko</li>
-<li>Talen: Arabisch</li>
-<li>Alias: /</li>
+<li>Geboortedatum: 15/06/1970</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Ahmed HADDAD (°06/11/1973 - Beni Boughafar, Marokko).</p>
+<p>Op vrijdag 5 oktober 2012 om 18.15 uur ontsnapte de Bouazza SABRI (°15/06/1970) tijdens zijn overbrenging naar de gevangenis van Vorst. Bouazza SABRI is atletisch gebouwd en is 1m70 groot. Hij heeft bruin haar en bruine ogen.</p>
 
-<p>Op 17 augustus 2013 bracht hij verschillende messteken toe aan zijn ex-vrouw in het bijzijn van hun 3 jonge kinderen. Hij liet het slachtoffer voor dood achter maar zij overleefde bij wonder de moordpoging.</p>
-<p>Ahmed HADDAD werd op 19 november 2014 door de correctionele rechtbank van Brussel tot 20 jaar gevangenisstraf veroordeeld wegens poging tot moord.</p>
-
-<p>Verspreid op 21/09/2015 op verzoek van FAST.</p>
+<p>Verspreid op 07-10-2012 op verzoek van de Procureur des Konings van Brussel</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -61,18 +53,13 @@ title-attr: Ahmed Haddad
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x19a321c67ed5f64da4536997a0cfb706_thumb.jpg.pagespeed.ic.vBRrP122UX.jpg" alt="Bouazza Sabri" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
 
-      <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
-        <div class="carousel-caption">
-
-        </div>
       </div>
   
     </div>
