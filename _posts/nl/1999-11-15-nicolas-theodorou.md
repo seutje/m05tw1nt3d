@@ -28,7 +28,6 @@ title-attr: Nicolas Theodorou
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 25 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 28/07/1971</li>
 </ul> 

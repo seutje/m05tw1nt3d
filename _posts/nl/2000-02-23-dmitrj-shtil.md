@@ -28,7 +28,6 @@ title-attr: Dmitrj Shtil
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 220 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 03/03/1977</li>
 <li>Nationaliteit: Rus</li>

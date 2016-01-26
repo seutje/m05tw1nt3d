@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Marc De Block"
-pubdate: "2010-06-09 00:10:00"
-factdate: "2010-06-09 00:09:00"
-categories: dutch
+layout: post-en
+title: "Mohamed Aissa"
+pubdate: "2011-05-20 00:10:00"
+factdate: "2011-05-20 00:09:00"
+categories: english
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg"
-title-attr: Marc De Block
+thumb: "http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg"
+title-attr: Mohamed Aissa
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Marc De Block
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Ahmed Haddad">
-           <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" title="Mohamed Aissa">
+           <img src="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" width="175"  ></a>
       </li>  
 
   </ul>
@@ -28,14 +28,16 @@ title-attr: Marc De Block
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 25/08/1974</li>
+<li>Sex: male</li>
+<li>Date of birth: 08/08/1973</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Marc DE BLOCK (°25/08/1974). Hij werd op 9 juni 2010 tot 7 jaar gevangenisstraf veroordeeld door het hof van beroep van Bergen voor drugshandel.</p>
-
-<p>Verspreid op 17/09/2015 op verzoek van FAST.</p>
+<p>On 16 SEP 2014 Mohamed AISSA was sentenced by the Court of Assizes of Brussels to life imprisonment for the offences described below. </p>
+<p>On 20 MAY 2011, two men committed a theft with violence in an apartment situated in Brussels, Bergstraat. The victim died of her injuries, one of the perpetrators could be caught. The second, Mohamed AISSA, managed to escape the scene and is still on the run.</p>
+<p>If you have any information about the whereabouts of this fugitive, please get in touch with the police. Discretion will be assured.</p>
+<p>Wanted notice circulated on 26 AUG 2015 on request of the Prosecutor-general’s office of Brussels.
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -50,7 +52,7 @@ title-attr: Marc De Block
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc De Block" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" alt="Mohamed Aisa" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

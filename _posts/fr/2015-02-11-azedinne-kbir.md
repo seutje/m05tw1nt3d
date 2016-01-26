@@ -3,7 +3,7 @@ layout: post-nl
 title: "Azedine Kbir Bounekoub"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg"
@@ -28,18 +28,18 @@ title-attr: Azedine Kbir Bounekoub
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 17/7/1992</li>
-<li>Alias: Abu Abdullah /</li>
+<li>Sex: male</li>
+<li>Date of birth: 17/7/1992</li>
+<li>Alias: Abu Abdullah</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Ahmed HADDAD (°06/11/1973 - Beni Boughafar, Marokko).</p>
-
-<p>Op 17 augustus 2013 bracht hij verschillende messteken toe aan zijn ex-vrouw in het bijzijn van hun 3 jonge kinderen. Hij liet het slachtoffer voor dood achter maar zij overleefde bij wonder de moordpoging.</p>
-<p>Ahmed HADDAD werd op 19 november 2014 door de correctionele rechtbank van Brussel tot 20 jaar gevangenisstraf veroordeeld wegens poging tot moord.</p>
-
-<p>Verspreid op 21/09/2015 op verzoek van FAST.</p>
+<p>The fugitive named Azeddine KBIR BOUNEKOUB (17/07/1992) - alias ABU ABDULLAH- was an active member of the terrorist group Sharia4Belgium. He received the group’s text messages of the organisation. </p>
+<p>Azeddine KBIR BOUNEKOUB left for Syria where he joined the terrorist group Majlis Shura Al-Mujahidin. Later he joined the terrorist group Jahbat Al-Nursa. In Syria he held a leader position within the terrorist group. </p>
+<p>Various audiovisual data posted on the Internet show that he instigated to commit terrorist acts and threatened with terrorist attacks. </p>
+<p>The Court of First Instance of Antwerp sentenced him to 15 years of imprisonment with order for immediate arrest (sentence pronounced on 11 February 2015). </p>
+<p>Wanted notice circulated on 30/12/2015 on request of the Federal Prosecuting office. 
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">

@@ -1,0 +1,27 @@
+---
+layout: default-fr
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+   
+  </header>
+
+  <article class="post-content">
+  {{ content }}
+  </article>
+
+</div>
+<hr>
+    {% include form-fr.html %}
+<hr>
+<ul class="row polaroids">
+    {% for post in site.categories.français %}
+       <li class="col-md-2">  
+         <a class="thumbnail small" title="{{post.title-attr}}" href="{{ post.url }}">
+           <img src="{{ post.thumb }}"></a>
+      </li>
+     
+    {% endfor %}
+  </ul>

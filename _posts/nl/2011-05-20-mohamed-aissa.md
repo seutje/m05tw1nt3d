@@ -28,7 +28,6 @@ title-attr: Mohamed Aissa
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: levenslang</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 08/08/1973</li>
 </ul> 

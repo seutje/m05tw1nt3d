@@ -28,7 +28,6 @@ title-attr: Said M'Nari
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 12 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 13/03/1978</li>
 </ul> 

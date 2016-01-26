@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Soufiane Mezroui"
-pubdate: "2015-02-11 00:10:00"
-factdate: "2013-02-11 00:09:00"
-categories: dutch
+layout: post-en
+title: "Hilde Van Acker"
+pubdate: "2011-12-15 00:10:00"
+factdate: "2011-12-15 00:09:00"
+categories: english
 
 
-thumb: "http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"
-title-attr: Soufiane Mezroui
+thumb: "http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg"
+title-attr: Hilde Van Acker
 
 ---
 
@@ -17,8 +17,8 @@ title-attr: Soufiane Mezroui
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" title="Soufiane Mezroui">
-           <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"  width="175" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" title="Hilde Van Ackter">
+           <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" ></a>
       </li>  
 
   </ul>
@@ -28,18 +28,15 @@ title-attr: Soufiane Mezroui
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 27/07/1992</li>
+<li>Sex: female</li>
+<li>Date of birth 26/03/1963</li>
 </ul> 
 
 
-<p>De voortvluchtige Soufiane MEZROUI (°27/07/1992) - alias Abu Basir was een actief lid van de terroristische groep Sharia4Belgium. Als lid van deze organisatie was hij de vaste ontvanger van de groeps-sms'en.</p>
-
-<p>Hij vertrok naar Syrië, waar hij zich aansloot bij Jabhat Al-Nursa.</p>
-
-<p>Binnen deze terroristische groep voert Soufiane MEZROUI een sektarische gewelddadige strijd tegen Sjiieten en alle ongelovigen.</p>
-
-<p>Hij werd hiervoor door de Rechtbank van eerste aanleg te Antwerpen veroordeeld tot een gevangenisstraf van 5 jaar met onmiddellijke aanhouding. (vonnis 11 februari 2015)</p>
+<p>The fugitive Hilde VAN ACKER (born on 26 MAR 1963) and her boyfriend Jean-Claude LACOTE (born on 04 SEP 1966) are wanted by the police.</p>
+<p>They were sentenced by default on 15 DEC 2011 by the Assize’s Court of West-Vlaanderen to life-imprisonment. 
+Both were sentenced for the murder on the British citizen Marcus John MITCHELL committed on 23 MAY 1996 in De Haan on the Belgian Coast. </p>
+<p>Wanted notice circulated on 15 SEP 2015 on request of FAST Belgium.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -57,12 +54,20 @@ title-attr: Soufiane Mezroui
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" alt="Soufiane Meroui" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" alt="Hilde Van Acker" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
+
+      <div class="item">
+        <img src="http://www.politie.be/files/fed/attachments/640xNx9ebaa5919c636fae216a90ad18fc02f0_thumb.jpg.pagespeed.ic.HOYhL8IDc0.jpg" alt="Hilde Van Ackter" width="460" height="345">
+        <div class="carousel-caption">
+
+        </div>
+      </div>
+  
     </div>
 
     <!-- Left and right controls -->

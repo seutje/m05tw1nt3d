@@ -28,7 +28,6 @@ title-attr: Eric Robert De Cocq Van Delwijnen
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 15 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 08/12/1966</li>
 <li>Nationaliteit: Nederlander</li>

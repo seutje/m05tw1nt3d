@@ -1,9 +1,9 @@
 ---
-layout: post-nl
+layout: post-en
 title: "Soufiane Mezroui"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"
@@ -28,18 +28,17 @@ title-attr: Soufiane Mezroui
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 27/07/1992</li>
+<li>Sex: male</li>
+<li>Date of birth: 27/07/1992</li>
 </ul> 
 
 
-<p>De voortvluchtige Soufiane MEZROUI (°27/07/1992) - alias Abu Basir was een actief lid van de terroristische groep Sharia4Belgium. Als lid van deze organisatie was hij de vaste ontvanger van de groeps-sms'en.</p>
-
-<p>Hij vertrok naar Syrië, waar hij zich aansloot bij Jabhat Al-Nursa.</p>
-
-<p>Binnen deze terroristische groep voert Soufiane MEZROUI een sektarische gewelddadige strijd tegen Sjiieten en alle ongelovigen.</p>
-
-<p>Hij werd hiervoor door de Rechtbank van eerste aanleg te Antwerpen veroordeeld tot een gevangenisstraf van 5 jaar met onmiddellijke aanhouding. (vonnis 11 februari 2015)</p>
+<p>The fugitive named Soufiane MEZROUI (°27/07/1992) - alias Abu Basir was an active member of the terrorist group Sharia4Belgium. As member of this organisation, he was the receiver of group text messages. 
+He left for Syria where he joined Jabhat Al-Nursa.</p>
+<p>Within this terrorist group, Soufiane MEZROUI fought a sectarian violent battle against Shiites and all other infidels. </p>
+<p>The Court of First Instance of Antwerp sentenced him to 5 years of imprisonment with order for immediate arrest (sentence pronounced on 11 Februari 2015). </p>
+<p>Wanted notice circulated on 30/12/2015 on request of the Federal Prosecuting office. 
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">

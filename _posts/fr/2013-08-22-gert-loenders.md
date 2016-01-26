@@ -1,9 +1,9 @@
 ---
-layout: post-nl
+layout: post-en
 title: "Gert Loenders"
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg"
@@ -28,20 +28,20 @@ title-attr: Gert Loenders
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 22/06/1964</li>
+<li>Sex: male</li>
+<li>Date of birth: 22/06/1964</li>
+<li>Nationality: Belgian</li>
 </ul> 
 
 
-<p>Op 22 augustus 2013 viel de Federale gerechtelijke politie van Asse binnen op 30 verschillende plaatsen in binnen- en buitenland. Tijdens de huiszoekingen werden professionele laboratoria aangetroffen in Vilvoorde en Chimay en er werd ongeveer 1,4 ton van de synthetische drug MDMA in beslag genomen.</p>
+<p>The fugitives Artur NAWROCKI (born on 02 FEB 1979) and Gert LOENDERS (born on 22 JUN 1964) are wanted by the police.</p>
 
-<p>Dertien verdachten van Belgische, Roemeense, Poolse en Turkse herkomst werden gearresteerd. Ze werden veroordeeld als lid van een criminele organisatie en voor drughandel.</p>
-
-<p>Twee veroordeelden van deze criminele organisatie zijn nog voortvluchtig. Het betreft Artur NAWROCKI (02/02/1979) en Gert LOENDERS (22/06/1964).</p>
-
-<p>Gert LOENDERS, bijgenaamd "de lange" werd op 26 november 2014 door de rechtbank van eerste aanleg te Brussel tot 15 jaar gevangenisstraf veroordeeld wegens zijn leiderschap binnen een criminele organisatie en internationale drughandel.</p>
-
-<p>Verspreid op 20-11-2013 op verzoek van de Procureur des Konings te Brussel en van het Federaal Parket</p>
+<p>Gert LOENDERS – aka ‘de lange’ – was sentenced on 26 NOV 2014 by the Court of First Instance of Brussels to 15 years of imprisonment for leading a criminal organisation and international drug trafficking.
+On 22 AUG 2013 the Federal judicial police of Asse raided 30 places in and outside the national Belgian territory. The house searches led to the discovery of professional laboratories in Vilvoorde and Chimay. Approximately 1.4 tons of the synthetic drug MDMA was seized.</p>
+<p>Thirteen suspects of Belgian, Romanian, Polish and Turkish origin were put under arrest. They were sentenced for being part of a criminal organisation and drug trafficking.
+Two of the convicted men are still on the run: Artur NAWROCKI (born on 02 FEB 1979) and Gert LOENDERS (born on 22 JUN 1964).</p>
+<p>Wanted notice circulated on 20 NOV 2013 on request of the Public Prosecutor of Brussels and the Federal Prosecuting office.
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">

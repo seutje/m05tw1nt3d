@@ -28,7 +28,6 @@ title-attr: Rouf Uddin
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 30 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 10/12/1975</li>
 <li>Nationaliteit: Bengaal</li>

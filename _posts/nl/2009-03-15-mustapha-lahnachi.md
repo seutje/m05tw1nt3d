@@ -28,13 +28,8 @@ title-attr: Mustapha Lahnachi
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 20 jaar</li>
 <li>Geslacht: man</li>
-<li>Geboortedatum: 06/11/1973</li>
-<li>Nationaliteit: Marrokaan</li>
-<li>Etnische origine: Beni Boughadar, Marokko</li>
-<li>Talen: Arabisch</li>
-<li>Alias: /</li>
+<li>Geboortedatum: 01/11/1978</li>
 </ul> 
 
 

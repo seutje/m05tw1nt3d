@@ -28,7 +28,6 @@ title-attr: Asif Bachir
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: levenslang</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 20/04/1998</li>
 <li>Nationaliteit: Pakistaan</li>

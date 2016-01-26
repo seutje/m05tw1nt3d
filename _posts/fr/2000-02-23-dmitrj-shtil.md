@@ -1,13 +1,12 @@
 ---
 layout: post-nl
-title: "Marc De Block"
-pubdate: "2010-06-09 00:10:00"
-factdate: "2010-06-09 00:09:00"
-categories: dutch
+title: "Dmitrj Shtil"
+pubdate: "2000-02-23 00:10:00"
+factdate: "2000-02-23 00:09:00"
+categories: english
 
-
-thumb: "http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg"
-title-attr: Marc De Block
+thumb: "http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg"
+title-attr: Dmitrj Shtil
 
 ---
 
@@ -17,8 +16,8 @@ title-attr: Marc De Block
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Ahmed Haddad">
-           <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" ></a>
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" title="Dmitrj Shtil">
+           <img src="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -28,14 +27,19 @@ title-attr: Marc De Block
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 25/08/1974</li>
+<li>Sex: male</li>
+<li>Date of birth: 03/03/1977</li>
+<li>Nationality: Rus</li>
+<li>Origin: Kazania, Rusland</li>
+<li>Alias: Dmitrj Lapatin</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Marc DE BLOCK (°25/08/1974). Hij werd op 9 juni 2010 tot 7 jaar gevangenisstraf veroordeeld door het hof van beroep van Bergen voor drugshandel.</p>
-
-<p>Verspreid op 17/09/2015 op verzoek van FAST.</p>
+<p>The fugitive Dmitrj SHTIL (born on 03.03.1977 in Kazania, Russia – aka Dmitrj LAPATIN) is wanted by the police.
+He was sentenced on 07 FEB 2002 by the Assize’s Court of Antwerp to 22 years of imprisonment..</p>
+<p>On 23 FEB 2000 Dmitrj SHTIL and a co-offender attacked a night shop situated at the Stenenbrug in Antwerp, Borgerhout. They stole the cash register of the shop. In doing so, the shop manager was shot from a short range and died of his injuries on 7 MAR 2000..</p>
+<p>Wanted notice circulated on 29 OCT 2015 on request of FAST Belgium.
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -50,12 +54,13 @@ title-attr: Marc De Block
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc De Block" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" alt="Dmitrj Shtil" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
+
   
     </div>
 

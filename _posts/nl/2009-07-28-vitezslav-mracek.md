@@ -28,7 +28,6 @@ title-attr: Vitezslav Mracek
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Veroordeling: 5 jaar</li>
 <li>Geslacht: man</li>
 <li>Geboortedatum: 19/02/1975</li>
 </ul> 

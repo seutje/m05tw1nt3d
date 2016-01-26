@@ -1,9 +1,9 @@
 ---
-layout: post-nl
+layout: post-en
 title: "Marc De Block"
 pubdate: "2010-06-09 00:10:00"
 factdate: "2010-06-09 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg"
@@ -28,14 +28,15 @@ title-attr: Marc De Block
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 25/08/1974</li>
+<li>Sex: male</li>
+<li>Date of birth: 25/08/1974</li>
 </ul> 
 
 
-<p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Marc DE BLOCK (°25/08/1974). Hij werd op 9 juni 2010 tot 7 jaar gevangenisstraf veroordeeld door het hof van beroep van Bergen voor drugshandel.</p>
-
-<p>Verspreid op 17/09/2015 op verzoek van FAST.</p>
+<p>The fugitive Marc DE BLOCK (born on 25 AUG 1974) is wanted by the police.
+He was sentenced on 9 JUN 2010 by the Court of Appeal of Mons to 7 years of imprisonment for dealing drugs. </p>
+<p>Wanted notice circulated on 17 SEP 2015 on request of FAST Belgium.
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">

@@ -3,7 +3,7 @@ layout: post-nl
 title: "Gabriel Fodderie"
 pubdate: "2009-05-02 00:10:00"
 factdate: "2009-05-02 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg"
@@ -28,34 +28,26 @@ title-attr: Gabriel Fodderie
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 23/12/1984</li>
-<li>Nationaliteit: Belg</li>
-<li>Etnische origine: Kinshasha, Congo</li>
+<li>Sex: male</li>
+<li>Date of birth: 23/12/1984</li>
+<li>Nationality: Belgian</li>
+<li>Origin: Kinshasha, Congo</li>
 </ul> 
 
 
-<p>Op 2 mei 2009 omstreeks 8 uur 's morgens was er een opstoot tussen 2 rivaliserende stadsbendes aan de Club "Le Privé" in Brussel.</p>
+<p>The police is searching for Gabriel FODDERIE (born in Kinshasa (Congo) on 23 DEC 1984 - Belgian citizenship). 
+Gabriel FODDERIE was sentenced on 26 March 2014 by the Court of First instance of Brussels to 10 years of imprisonment for voluntary manslaughter. </p>
 
-<p>Gabriel FODDERIE maakte deel uit van de Brusselse stadsbende "Black Demolition" en werd gemolesteerd door de bende "Finest" en "Finest Junior".</p>
+<p>On 2 May 2009 around 8 a.m. a clash erupted between two rival city gangs near the Club ‘Le Privé’ in Brussels.
+Gabriel FODDERIE was part of the Brussels city gang ‘Black Demolition’ and was beat up by the gangs ‘Finest’ and ‘Finest Junior’. Returning to his vehicle, he was followed by L.M. who threw him a punch. Gabriel FODDERIE got a knife from his vehicle, chased his assailant and stabbed him twice in the stomach. </p>
 
-<p>Wanneer hij terugkeerde naar zijn wagen werd hij gevolgd door L. M. die hem een vuistslag gaf. Gabriel FODDERIE haalde een mes uit zijn wagen, achtervolgde hem en bracht hem 2 fatale messteken toe in de buik.</p>
+<p>On 10 June 2013 he had already been sentenced by the Court of First instance of Dendermonde to 5 years of imprisonment for a very violent home invasion. In the night of 28 May 2012, he and an accomplice forced entry into a residential home in Haaltert. The occupant was blindfolded, tied up and put a knife to his throat. They stole money and valuable jewels. </p>
 
-<p>Gabriel FODDERIE werd voor deze vrijwillige doodslag op 26 maart 2014 door de rechtbank van eerste aanleg te Brussel veroordeeld tot 10 gevangenisstraf.</p>
+<p>Gabriel FODDERIE must serve a total of 15 years in prison, is violent and on the run. 
+If you have any information about the whereabouts of this fugitive, please get in touch with the police.</p> 
 
-<p>Op 10 juni 2013 werd hij tevens veroordeeld door de rechtbank van eerste aanleg van Dendermonde tot 5 jaar gevangenisstraf wegens een zeer gewelddadige home-jacking.</p>
-
-<p>Tijdens de nacht van 28 mei 2012 drong hij met een kompaan een villa binnen in Haaltert.</p>
-
-<p>De bewoner wordt geblinddoekt, vastgebonden en een mes op de keel gezet.</p>
-
-<p>Geld en kostbare juwelen werden ontvreemd.</p>
-
-<p>Gabriel FODDERIE heeft een totaal van 15 jaar gevangenisstraf, is gewelddadig en voortvluchtig.</p>
-
-<p>Hij werd op 23 december 1984 geboren in Kinshasa (Congo) en heeft de Belgische nationaliteit.</p>
-
-<p>Weet u waar deze voortvluchtige man verblijft, neem dan contact op met de politie.</p>
+<p>Wanted notice circulated on 17/11/2015 on request of FAST Belgium. 
+</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
