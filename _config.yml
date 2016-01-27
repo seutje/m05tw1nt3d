@@ -3,7 +3,7 @@ title: Belgium's Most Wanted
 email: cgc.digital@police.belgium.eu
 description: "website description"
 #baseurl: "http://fedpolbelgium.github.io/mwbelgium"
-baseurl:
+baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: fedpol_pers
 github_username:  fedpolbelgium
