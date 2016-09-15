@@ -1,0 +1,45 @@
+// Typography
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+body {
+    font-size: 1.8em;
+}
+
+// basic font styles
+h2.b_title, p, ul {
+    font-family:'Cutive Mono', 'Courier New', monospace;
+    width: 100%;
+}
+
+h2.b_title {
+    font-size:2.4em;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 900;
+}
+
+
+
+.post h1,  { 
+    font-family:'Cutive Mono', 'Courier New', monospace;
+    font-weight: 400;
+
+}
+    
+
+hr {
+    border: 0;
+    width:100%;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    align-content: center;
+}
+
+footer p {
+    text-align: center;
+}
+
+
