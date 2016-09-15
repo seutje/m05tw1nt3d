@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Gert Loenders"
+title: "Gert LOENDERS"
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg"
-title-attr: Gert Loenders
+title-attr: Gert LOENDERS
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Gert Loenders
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert Loenders">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert LOENDERS">
            <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" width="175" ></a>
       </li>  
 
@@ -57,7 +57,7 @@ Two of the convicted men are still on the run: Artur NAWROCKI (born on 02 FEB 19
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" alt="Gert Loenders" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" alt="Gert LOENDERS" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
@@ -65,7 +65,7 @@ Two of the convicted men are still on the run: Artur NAWROCKI (born on 02 FEB 19
       </div>
 
       <div class="item">
-        <img src="http://www.politie.be/files/fed/attachments/640xNx142a0636645672dc0a9c0388dd99a52f_thumb.jpg.pagespeed.ic.xpfvy9RATV.jpg" alt="Gert Loenders" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/640xNx142a0636645672dc0a9c0388dd99a52f_thumb.jpg.pagespeed.ic.xpfvy9RATV.jpg" alt="Gert LOENDERS" width="460" height="345">
         <div class="carousel-caption">
 
         </div>

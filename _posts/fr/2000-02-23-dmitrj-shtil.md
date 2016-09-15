@@ -1,12 +1,12 @@
 ---
-layout: post-nl
-title: "Dmitrj Shtil"
+layout: post-fr
+title: "Dmitrj SHTIL"
 pubdate: "2000-02-23 00:10:00"
 factdate: "2000-02-23 00:09:00"
-categories: english
+categories: french
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg"
-title-attr: Dmitrj Shtil
+title-attr: Dmitrj SHTIL
 
 ---
 
@@ -27,19 +27,18 @@ title-attr: Dmitrj Shtil
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 03/03/1977</li>
-<li>Nationality: Rus</li>
-<li>Origin: Kazania, Rusland</li>
-<li>Alias: Dmitrj Lapatin</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 03/03/1977</li>
+<li>Nationalité: Russe</li>
+<li>Origine: Kazania, Russsie</li>
+<li>Alias: Dmitrj LAPATIN</li>
 </ul> 
 
 
-<p>The fugitive Dmitrj SHTIL (born on 03.03.1977 in Kazania, Russia – aka Dmitrj LAPATIN) is wanted by the police.
-He was sentenced on 07 FEB 2002 by the Assize’s Court of Antwerp to 22 years of imprisonment..</p>
-<p>On 23 FEB 2000 Dmitrj SHTIL and a co-offender attacked a night shop situated at the Stenenbrug in Antwerp, Borgerhout. They stole the cash register of the shop. In doing so, the shop manager was shot from a short range and died of his injuries on 7 MAR 2000..</p>
-<p>Wanted notice circulated on 29 OCT 2015 on request of FAST Belgium.
-</p>
+<p>Le fugitif Dmitrj SHTIL (né le 03/03/1977 à Kazania, Russie  – alias Dmitrj LAPATIN) est recherché par la police.</p>
+<p>Il a été condamné le 07/02/2002 à 22 ans de prison par la Cour d'Assises d'Anvers.</p>
+<p>Le 23 février 2000, il a commis avec un comparse un hold-up dans un magasin de nuit situé Stenenbrug à Anvers Borgerhout. Ils ont dérobés la caisse du magasin.</p>
+<p>Publié le 29/10/2015 à la requête du FAST Belgium.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -67,11 +66,11 @@ He was sentenced on 07 FEB 2002 by the Assize’s Court of Antwerp to 22 years o
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

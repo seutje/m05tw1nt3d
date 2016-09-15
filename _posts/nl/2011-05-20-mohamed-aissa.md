@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Mohamed Aissa"
+title: "Mohamed AISSA"
 pubdate: "2011-05-20 00:10:00"
 factdate: "2011-05-20 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg"
-title-attr: Mohamed Aissa
+title-attr: Mohamed AISSA
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Mohamed Aissa
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" title="Mohamed Aissa">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" title="Mohamed AISSA">
            <img src="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" width="175"  ></a>
       </li>  
 
@@ -52,7 +52,7 @@ title-attr: Mohamed Aissa
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" alt="Mohamed Aisa" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg" alt="Mohamed AISSA" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Vitezslav Mracek"
+title: "Vitezslav MRACEK"
 pubdate: "2015-11-13 00:10:00"
 factdate: "2015-11-13 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg"
-title-attr: Vitezslav Mracek
+title-attr: Vitezslav MRACEK
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Vitezslav Mracek
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg" title="Vitezslav Mracek">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg" title="Vitezslav MRACEK">
            <img src="http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg" ></a>
       </li>  
 
@@ -33,7 +33,7 @@ title-attr: Vitezslav Mracek
 </ul> 
 
 
-<p>Op dinsdag 28 juli 2009 ontsnapten 6 gedetineerden uit de gevangenis van Merksplas. Vijf van hen konden snel worden gevat.Vitezslav MRACEK (°19/02/1975) is nog voortvluchtig.</p>
+<p>Op dinsdag 28 juli 2009 ontsnapten 6 gedetineerden uit de gevangenis van Merksplas. Vijf van hen konden snel worden gevat. Vitezslav MRACEK (°19/02/1975) is nog voortvluchtig.</p>
 
 <p>Hij is veroordeeld door het Hof van beroep van Antwerpen tot 5 jaar gevangenisstraf wegens zware diefstallen.</p>
 
@@ -52,7 +52,7 @@ title-attr: Vitezslav Mracek
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg" alt="Vitezslav Mracek" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xb90313acd9cb2e19ba425114ac05793f_thumb.jpg.pagespeed.ic.alYG6yAN8j.jpg" alt="Vitezslav MRACEK" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

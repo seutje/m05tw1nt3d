@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Hicham Chaib"
+title: "Hicham CHAIB "
 pubdate: "2015-02-11 00:10:00"
 factdate: "2015-02-11 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg"
-title-attr: Hicham Chaib
+title-attr: Hicham CHAIB 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Hicham Chaib
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" title="Hachim Chaub">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" title="Hicham CHAIB ">
            <img src="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" width="175"  ></a>
       </li>  
 
@@ -55,7 +55,7 @@ CHAIB left for Syria and joint the terrorist group Majlis Shura Al-Mujahidin. He
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" alt="Hachim Chaib" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xcba4b6c8bbec09b1b97fb844dfbdc7df_thumb.jpg.pagespeed.ic.5Y8wZat7Bg.jpg" alt="Hicham CHAIB " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

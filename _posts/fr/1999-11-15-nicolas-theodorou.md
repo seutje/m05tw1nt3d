@@ -1,13 +1,13 @@
 ---
-layout: post-en
-title: "Nicolas Theodorou"
+layout: post-fr
+title: "Nicolas THEODOROU"
 pubdate: "1999-11-15 00:10:00"
 factdate: "1999-11-15 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg"
-title-attr: Nicolas Theodorou
+title-attr: Nicolas THEODOROU
 
 ---
 
@@ -28,15 +28,14 @@ title-attr: Nicolas Theodorou
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 28/07/1971</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 28/07/1971</li>
 </ul> 
 
 
-<p>The fugitive Nicolas THEODOROU (born on 28 JUL 1971) is wanted by the police.
-He was sentenced on 27 OCT 2005 by the Assize’s Court of Hainaut to 25 years of imprisonment for attempted murder on two car salesmen.</p>
-<p>The offence occurred in Hensies (Montroei-sur-Haine) on 15 NOV 1999. </p>
-<p>Wanted notice circulated on 17 SEP 2015 on request of FAST Belgium.
+<p>Le fugitif Nicolas THEODOROU (né le 28/07/1971) est recherché par la police.</p>
+<p>Le 27 octobre 2005, il a été condamné à perpétuité par la Cour d'Assises du Hainaut pour le meurtre de 2 vendeurs de voiture le 15 novembre 1999 à Hensies (Montroeui-sur-Haine). </p>
+<p>Publié le 17/09/2015 à la requête du FAST Belgium.
 </p>
 
 <!-- SLIDER -->
@@ -66,11 +65,11 @@ He was sentenced on 27 OCT 2005 by the Assize’s Court of Hainaut to 25 years o
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

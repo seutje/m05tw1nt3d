@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Hilde Van Acker"
+title: "Hilde VAN ACKER"
 pubdate: "2011-12-15 00:10:00"
 factdate: "2011-12-15 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg"
-title-attr: Hilde Van Acker
+title-attr: Hilde VAN ACKER
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Hilde Van Acker
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" title="Hilde Van Ackter">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" title="Hilde VAN ACKER">
            <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" ></a>
       </li>  
 
@@ -55,7 +55,7 @@ title-attr: Hilde Van Acker
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" alt="Hilde Van Acker" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" alt="Hilde VAN ACKER" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

@@ -16,7 +16,7 @@ layout: default-nl
 <hr>
     {% include form-nl.html %}
 <hr>
-<ul class="row polaroids">
+<ul class="row polaroids small">
     {% for post in site.categories.dutch %}
        <li class="col-md-2">  
          <a class="thumbnail small" title="{{post.title-attr}}" href="{{ post.url }}">
@@ -25,3 +25,5 @@ layout: default-nl
      
     {% endfor %}
   </ul>
+
+<hr>

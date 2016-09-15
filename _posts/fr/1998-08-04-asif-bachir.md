@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Asif Bachir"
+layout: post-fr
+title: "Asif BACHIR"
 pubdate: "1998-08-04 00:10:00"
 factdate: "1998-08-04 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x1ebef778d028aedb9e3949a77a848d8c_thumb.JPG.pagespeed.ic.2GH5EBlMR7.jpg"
-title-attr: Asif Bachir
+title-attr: Asif BACHIR
 
 ---
 
@@ -28,18 +28,20 @@ title-attr: Asif Bachir
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 20/04/1998</li>
-<li>Nationality: Pakistaan</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 20/04/1998</li>
+<li>Nationalité: Pakistan</li>
 </ul> 
 
 
-<p>The fugitive Asif BACHIR (born in 1971, Pakistani national) is wanted by the police.</p>
+<p>Le fugitif Asif BACHIR (né en 1971, au Pakistan) est recherché par la police.</p>
 
-<p>He was sentenced on 20 APR 1998 by the Assize’s Court of Oost-Vlaanderen to life-imprisonment for the murders on Mohammad Yousaf and Tuncay Kartal. These murders were committed in Ghent on 4 AUG 1996. </p>
+<p>Le 20 avril 1998 a été condamné à perpétuité par la cour d'assises de Flandre orientale pour les meurtres de Mohammad Youssaf et de Tuncay Kartal. 
+Ces meurtres ont été commis à Gand le 4 août 1996. 
+Asif BACHIR est né le 1971 et est de nationalité Pakistanaise.</p>
 
-<p>Wanted notice circulated on 26 JUN 2015 on request of FAST Belgium.
-</p>
+<p>Publié le 26/06/2015 à la requête du FAST Belgium.</p>
+
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -68,11 +70,11 @@ title-attr: Asif Bachir
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

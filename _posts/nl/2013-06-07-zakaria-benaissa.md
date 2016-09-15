@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Zakaria Benaissa"
+title: "Zakaria BENAISSA"
 pubdate: "2013-06-07 00:10:00"
 factdate: "2013-06-07 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg"
-title-attr: Zakaria Benaissa
+title-attr: Zakaria BENAISSA
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Zakaria Benaissa
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" title="Zakaria Benaissa">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" title="Zakaria BENAISSA">
            <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg"  width="175"></a>
       </li>  
 
@@ -53,7 +53,7 @@ title-attr: Zakaria Benaissa
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" alt="Zakaria Benaissa" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" alt="Zakaria BENAISSA" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Artur Nawrocki"
+title: "Artur NAWROCKI"
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg"
-title-attr: Artur Nawrocki
+title-attr: Artur NAWROCKI
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Artur Nawrocki
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" title="Artur Nawrocki">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" title="Artur NAWROCKI">
            <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" width="175" ></a>
       </li>  
 
@@ -55,7 +55,7 @@ title-attr: Artur Nawrocki
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" alt="Artur Nawrocki" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" alt="Artur NAWROCKI" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

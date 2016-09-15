@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Abdelmajid Lamrani"
+layout: post-en
+title: "Abdelmajid LAMRANI "
 pubdate: "1997-11-01 00:10:00"
 factdate: "1997-11-01 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg"
-title-attr: Abdelmajid Lamrani
+title-attr: Abdelmajid LAMRANI 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Abdelmajid Lamrani
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg" title="Abdelmajid LAMRANI ">
            <img src="http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg" width="175" ></a>
       </li>  
 
@@ -55,7 +55,7 @@ title-attr: Abdelmajid Lamrani
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg" alt="Abelmajid Lamrani" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg" alt="Abdelmajid LAMRANI " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Asif Bachir"
+layout: post-en
+title: "Asif BACHIR"
 pubdate: "1998-08-04 00:10:00"
 factdate: "1998-08-04 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x1ebef778d028aedb9e3949a77a848d8c_thumb.JPG.pagespeed.ic.2GH5EBlMR7.jpg"
-title-attr: Asif Bachir
+title-attr: Asif BACHIR
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Asif Bachir
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x1ebef778d028aedb9e3949a77a848d8c_thumb.JPG.pagespeed.ic.2GH5EBlMR7.jpg" title="Asif Bachir">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x1ebef778d028aedb9e3949a77a848d8c_thumb.JPG.pagespeed.ic.2GH5EBlMR7.jpg" title="Asif BACHIR">
            <img src="http://www.politie.be/files/fed/attachments/400x500x1ebef778d028aedb9e3949a77a848d8c_thumb.JPG.pagespeed.ic.2GH5EBlMR7.jpg" width="175"  ></a>
       </li>  
 

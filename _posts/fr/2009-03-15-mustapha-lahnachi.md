@@ -1,13 +1,13 @@
 ---
-layout: post-en
-title: "Mustapha Lahnachi"
+layout: post-fr
+title: "Mustapha LAHNACHI"
 pubdate: "2009-03-15 00:10:00"
 factdate: "2009-03-15 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg"
-title-attr: Mustapha Lahnachi
+title-attr: Mustapha LAHNACHI
 
 ---
 
@@ -28,15 +28,14 @@ title-attr: Mustapha Lahnachi
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 01/11/1978</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance: 01/11/1978</li>
 </ul> 
 
-
-<p>The fugitive Mustapha LAHNACHI (born on 1 NOV 1978) is wanted by the police. He is on the run and violent.
-On Sunday morning 15 MAR 2009 three inmates escaped from the penitentiary of Ittre, taking a warden hostage and injuring him. He was released in the neighbourhood of the penitentiary. Two could be caught soon after the escape but Mustapha LAHNACHI is still on the run and violent.</p>
-<p>Mustapha LAHNACHI was sentenced for these facts by the Correctional Court of Nijvel to 6 years of imprisonment. </p>
-<p>Wanted notice circulated on 26 AUG 2015 on request of the Prosecutor’s office of Nijvel.
+<p>Le fugitif Mustapha LAHNACHI (né le 01/11/1978) est recherché par la police.</p>
+Le dimanche 15 mars 2009 en matinée, trois détenus se sont évadés de la prison de Ittre en prenant en otage à l'aide d'une arme blanche un gardien qui a été blessé et libéré à proximité de l'établissement pénitentiaire.Ils se sont enfuis à pied.Un des trois détenus est toujours en fuite.Il s'agit de Mustapha LAHNACHI. L'individu pourrait faire usage de violences.</p>
+<p>Pour ces faits, Mustapha LAHNACHI a été condamné par le Tribunal correctionnel de Nivelles à une peine de 6 ans. </p>
+<p>Publié le 26/08/2015 à la requête du Parquet de Nivelles.
 </p>
 
 <!-- SLIDER -->
@@ -64,11 +63,11 @@ On Sunday morning 15 MAR 2009 three inmates escaped from the penitentiary of Itt
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

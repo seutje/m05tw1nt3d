@@ -1,13 +1,13 @@
 ---
 layout: post-fr
-title: "Abdelmajid Lamrani"
+title: "Abdelmajid LAMRANI"
 pubdate: "1997-11-01 00:10:00"
 factdate: "1997-11-01 00:09:00"
-categories: français
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x97ca8891d9c4f50f3df4fc544a19f29d_thumb.jpg.pagespeed.ic.Dz-kKGsYDG.jpg"
-title-attr: Abdelmajid Lamrani
+title-attr: Abdelmajid LAMRANI 
 
 ---
 
@@ -28,19 +28,18 @@ title-attr: Abdelmajid Lamrani
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 04/08/1969</li>
-<li>Nationality: Moroccon</li>
-<li>Origin: Tanger, Morocco</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 04/08/1969</li>
+<li>Nationalité: Moroccon</li>
+<li>Origine: Tanger, Maroc</li>
 </ul> 
 
 
-<p>The fugitive Abdelmajid LAMRANI (born on 04 AUG 1969 in Tanger, Morocco) is wanted by the police.</p>
-<p>On 4 NOV 2013 Abdelmajid LAMRANI was sentenced by the Court of Assizes of Brussels for murder committed in the Brussels area in November 1997.</p>
-<p>Abdelmajid LAMRANI is 165 cm tall; the photograph was taken in 1997.</p>
-<p>If you have any information about the whereabouts of this fugitive, please get in touch with the police.</p> <p>Discretion will be assured.</p>
-<p>Wanted notice circulated on 27 SEP 2013 on request of the Public Prosecutor of Brussels and the Prosecutor-general’s office.
-</p>
+<p>Le fugitif Abdelmajid LAMRANI (né le 04 août 1969 à Tanger, Maroc) est recherché par la police.</p>
+<p>Abdelmajid LAMRANI a été condamné le 4 novembre 2011 devant la cour d'assises de Bruxelles capitale pour un meurtre dans la région bruxelloise en novembre 1997.</p>
+<p>Abdelmajid LAMRANI fait 165 cm; la photo a été prise en 1997.</p>
+<p>Si vous connaissez le lieu ou se trouve Abdelmajid LAMRANI, veuillez prendre contact avec les enquêteurs. </p> <p>Discrétion assuré.</p>
+<p>Publié le 27/09/2013 à la requête du Procureur du Roi de Bruxelles et de le Parquet général.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -69,11 +68,11 @@ title-attr: Abdelmajid Lamrani
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

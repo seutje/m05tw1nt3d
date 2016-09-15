@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Eric Robert De Cocq Van Delwijnen"
+layout: post-fr
+title: "Eric Robert DE COCQ VAN DELWIJNEN"
 pubdate: "2011-06-22 00:10:00"
 factdate: "2011-06-22 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg"
-title-attr: Eric Robert De Cocq Van Delwijnen
+title-attr: Eric Robert DE COCQ VAN DELWIJNEN
 
 ---
 
@@ -28,18 +28,16 @@ title-attr: Eric Robert De Cocq Van Delwijnen
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth 08/12/1966</li>
-<li>Nationality: Nederlander</li>
-<li>Origin: Amsterdam, Nederland</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance 08/12/1966</li>
+<li>Nationalité: hollandais</li>
+<li>Origin: Amsterdam, Pays-Bas</li>
 </ul> 
 
-
-<p>The fugitive Eric Robert DE COCQ VAN DELWIJNEN (born on 8 DEC 1966 in Amsterdam, Dutch national) is wanted by the police.</p>
-<p>He was sentenced on 22 JUN 2011 by the Court of First Instance of Ghent to 15 years of imprisonment for attempted murder.</p>
-<p>The photograph was taken in 2007 and the subject may have changed his appearance.  
-Wanted notice circulated on 26 JUN 2015 on request of FAST Belgium.
-</p>
+<p>Le fugitif Eric Robert DE COCQ VAN DELWIJNEN (né le 08/12/1966 à Amsterdam, nationalité hollandaise) est recherché par la police.</p>
+<p>Il a été condamné en date du 22 juin 2011 à une peine d'emprisonnement de 15 ans pour tentative de meurtre par le Tribunal correctionnel de Gand.</p>
+<p>Cette photo, datant de 2007, peut ne plus correspondre exactement au physique actuel de la personne.</p> 
+<p>Publié le 26/06/2015 à la requête du FAST Belgium.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -67,11 +65,11 @@ Wanted notice circulated on 26 JUN 2015 on request of FAST Belgium.
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

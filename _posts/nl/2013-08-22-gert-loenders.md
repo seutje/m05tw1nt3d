@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Gert Loenders"
+title: "Gert LOENDERS"
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg"
-title-attr: Gert Loenders
+title-attr: Gert LOENDERS
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Gert Loenders
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert Loenders">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert LOENDERS">
            <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" width="175" ></a>
       </li>  
 
@@ -57,7 +57,7 @@ title-attr: Gert Loenders
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" alt="Gert Loenders" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" alt="Gert LOENDERS" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

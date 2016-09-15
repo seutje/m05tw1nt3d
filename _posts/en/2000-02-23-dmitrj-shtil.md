@@ -1,13 +1,12 @@
 ---
-layout: post-nl
-title: "Dmitrj Shtil"
+layout: post-en
+title: "Dmitrj SHTIL"
 pubdate: "2000-02-23 00:10:00"
 factdate: "2000-02-23 00:09:00"
 categories: english
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg"
-title-attr: Dmitrj Shtil
-
+title-attr: Dmitrj SHTIL
 ---
 
 <div class="row">
@@ -16,7 +15,7 @@ title-attr: Dmitrj Shtil
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" title="Dmitrj Shtil">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" title="Dmitrj SHTIL">
            <img src="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" width="175" ></a>
       </li>  
 
@@ -54,7 +53,7 @@ He was sentenced on 07 FEB 2002 by the Assize’s Court of Antwerp to 22 years o
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" alt="Dmitrj Shtil" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x91b20853ddeedb44036628fd2982f744_thumb.jpg.pagespeed.ic.UfORR3dfCo.jpg" alt="Dmitrj SHTIL" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

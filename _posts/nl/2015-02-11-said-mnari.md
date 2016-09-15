@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Said M'Nari"
+title: "Said M NARI"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg"
-title-attr: Said M'Nari
+title-attr: Said M NARI
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Said M'Nari
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg" title="Said M'Nari">
+         <a class="http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg" title="Saïd M'NARI">
            <img src="http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg" width="175" ></a>
       </li>  
 
@@ -55,7 +55,7 @@ title-attr: Said M'Nari
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg" alt="Said M'Nari" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x79f8a38207eba44b5052ee2e38ff60bf_thumb.jpg.pagespeed.ic.ZATfg6LWZY.jpg" alt="Saïd M'NARI" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

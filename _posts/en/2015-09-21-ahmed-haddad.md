@@ -1,5 +1,5 @@
 ---
-layout: post-nl
+layout: post-en
 title: "Ahmed HADDAD"
 pubdate: "2015-09-21 00:10:00"
 factdate: "2013-08-17 00:09:00"
@@ -7,7 +7,7 @@ categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+title-attr: Ahmed HADDAD
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed HADDAD">
            <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
       </li>  
 
@@ -58,7 +58,7 @@ He was sentenced on 19 NOV 2014 by the Court of First Instance of Brussels to 20
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed HADDAD" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
@@ -66,7 +66,7 @@ He was sentenced on 19 NOV 2014 by the Court of First Instance of Brussels to 20
       </div>
 
       <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed HADDAD" width="460" height="345">
         <div class="carousel-caption">
 
         </div>

@@ -1,11 +1,11 @@
 ---
-layout: default-en
+layout: default-fr
 ---
 <script type="text/javascript">
 
     function generateRandomPosts()
     {
-        $.getJSON("/search-en.json", function(data) {
+        $.getJSON("/search-fr.json", function(data) {
             console.log("[search.json loaded for random posts]");
 
             var postsCount = data.length;
@@ -54,7 +54,7 @@ layout: default-en
     <ul class="row polaroids" id="random_posts"></ul>
 </div>
 <hr>
- <p>These people are convicted and on the run. </p>
+ <p>Ces personnes sont recherchés par....  </p>
 <hr>
 
 
