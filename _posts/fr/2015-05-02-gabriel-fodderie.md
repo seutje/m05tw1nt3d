@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Gabriel Fodderie"
+layout: post-fr
+title: "Gabriel FODDERIE"
 pubdate: "2009-05-02 00:10:00"
 factdate: "2009-05-02 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg"
-title-attr: Gabriel Fodderie
+title-attr: Gabriel FODDERIE
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Gabriel Fodderie
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" title="Gabriel Fodderie">
+         <a class="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" title="Gabriel FODDERIE">
            <img src="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" width="175" ></a>
       </li>  
 
@@ -28,25 +28,26 @@ title-attr: Gabriel Fodderie
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 23/12/1984</li>
-<li>Nationality: Belgian</li>
-<li>Origin: Kinshasha, Congo</li>
+<li>Sexe: maasculin</li>
+<li>Date de naissance: 23/12/1984</li>
+<li>Nationalité: belge</li>
+<li>Origine: Kinshasha, Congo</li>
 </ul> 
 
+<p>Les fugitifs Gabriel FODDERIE (né le 23/12/1974 à Kinshasa (Congo) - nationalité belge) est recherché par la police.</p>
+<p>Il a été condamné le 26 mars 2014 par le Tribunal de 1ère Instance de Bruxelles pour homicide volontaire à 10 ans de prison.</p>
 
-<p>The police is searching for Gabriel FODDERIE (born in Kinshasa (Congo) on 23 DEC 1984 - Belgian citizenship). 
-Gabriel FODDERIE was sentenced on 26 March 2014 by the Court of First instance of Brussels to 10 years of imprisonment for voluntary manslaughter. </p>
+<p>Le 2 mai 2009 vers 08h00, deux gangs rivaux se sont bagarrés dans près du club « Le Privé » situé à Bruxelles.
+Gabriel FODDERIE faisait partie de la bande urbaine de Bruxelles nommée « Black Demolitions » et a été molesté par les bandes « Finest » et « Finest Junior ».
+Quand il a rejoint son véhicule, il a été suivi et a reçu un coup par L.M.
+Gabriel FODDERIE a sorti un couteau de sa voiture et poursuivi son agresseur et lui a donné deux coups de couteau mortel à l'abdomen.</p>
 
-<p>On 2 May 2009 around 8 a.m. a clash erupted between two rival city gangs near the Club ‘Le Privé’ in Brussels.
-Gabriel FODDERIE was part of the Brussels city gang ‘Black Demolition’ and was beat up by the gangs ‘Finest’ and ‘Finest Junior’. Returning to his vehicle, he was followed by L.M. who threw him a punch. Gabriel FODDERIE got a knife from his vehicle, chased his assailant and stabbed him twice in the stomach. </p>
+<p>Le 10 juin 2013, il a été aussi condamné par le Tribunal de 1ère Instance de Termonde à cinq ans de prison pour un Home-Jacking très violent. La nuit du 28 mai 2012, il a pénétré avec un complice dans une habitation situé à Haaltert. La victime a été ligotée, a eu les yeux bandés et a été menacée avec un couteau mis sous la gorge. De l'argent ainsi que des bijoux de grandes valeurs ont été volés. </p>
 
-<p>On 10 June 2013 he had already been sentenced by the Court of First instance of Dendermonde to 5 years of imprisonment for a very violent home invasion. In the night of 28 May 2012, he and an accomplice forced entry into a residential home in Haaltert. The occupant was blindfolded, tied up and put a knife to his throat. They stole money and valuable jewels. </p>
+<p>Gabriel FODDERIE a été condamné au total à 15 ans d'emprisonnement. Il est qualifié de dangereux.
+Si vous connaissez l'endroit où se trouve Gabriel FODDERIE, veuillez prendre contact avec les enquêteurs.</p> 
 
-<p>Gabriel FODDERIE must serve a total of 15 years in prison, is violent and on the run. 
-If you have any information about the whereabouts of this fugitive, please get in touch with the police.</p> 
-
-<p>Wanted notice circulated on 17/11/2015 on request of FAST Belgium. 
+<p>Publié le 17/11/2015 à la requête du FAST Belgium. 
 </p>
 
 <!-- SLIDER -->
@@ -90,11 +91,11 @@ If you have any information about the whereabouts of this fugitive, please get i
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

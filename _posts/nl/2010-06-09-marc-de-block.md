@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Marc De Block"
+title: "Marc DE BLOCK"
 pubdate: "2010-06-09 00:10:00"
 factdate: "2010-06-09 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg"
-title-attr: Marc De Block
+title-attr: Marc DE BLOCK
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Marc De Block
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Marc DE BLOCK">
            <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" ></a>
       </li>  
 
@@ -35,7 +35,7 @@ title-attr: Marc De Block
 
 <p>De onderzoekers vragen om uit te kijken naar de voortvluchtige Marc DE BLOCK (°25/08/1974). Hij werd op 9 juni 2010 tot 7 jaar gevangenisstraf veroordeeld door het hof van beroep van Bergen voor drugshandel.</p>
 
-<p>Verspreid op 17/09/2015 op verzoek van FAST.</p>
+<p>Verspreid op 17-09-2015 op verzoek van FAST.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -50,7 +50,7 @@ title-attr: Marc De Block
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc De Block" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc DE BLOCK" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

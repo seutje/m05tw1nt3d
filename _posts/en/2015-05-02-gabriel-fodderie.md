@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Gabriel Fodderie"
+layout: post-en
+title: "Gabriel FODDERIE"
 pubdate: "2009-05-02 00:10:00"
 factdate: "2009-05-02 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg"
-title-attr: Gabriel Fodderie
+title-attr: Gabriel FODDERIE
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Gabriel Fodderie
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" title="Gabriel Fodderie">
+         <a class="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" title="Gabriel FODDERIE">
            <img src="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" width="175" ></a>
       </li>  
 
@@ -64,7 +64,7 @@ If you have any information about the whereabouts of this fugitive, please get i
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" alt="Gabriel Fodderie" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" alt="Gabriel FODDERIE" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

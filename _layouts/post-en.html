@@ -16,8 +16,8 @@ layout: default-en
 <hr>
     {% include form-en.html %}
 <hr>
-<ul class="row polaroids">
-    {% for post in site.categories.en %}
+<ul class="row polaroids small">
+    {% for post in site.categories.english %}
        <li class="col-md-2">  
          <a class="thumbnail small" title="{{post.title-attr}}" href="{{ post.url }}">
            <img src="{{ post.thumb }}"></a>
@@ -25,3 +25,5 @@ layout: default-en
      
     {% endfor %}
   </ul>
+
+<hr>

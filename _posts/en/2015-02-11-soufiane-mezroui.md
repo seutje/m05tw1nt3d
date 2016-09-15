@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Soufiane Mezroui"
+title: "Soufiane MEZROUI "
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"
-title-attr: Soufiane Mezroui
+title-attr: Soufiane MEZROUI 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Soufiane Mezroui
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" title="Soufiane Mezroui">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" title="Soufiane MEZROUI ">
            <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg"  width="175" ></a>
       </li>  
 
@@ -56,7 +56,7 @@ He left for Syria where he joined Jabhat Al-Nursa.</p>
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" alt="Soufiane Meroui" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xb3e5ab457cefff82bff92bd7019bffa4_thumb.jpg.pagespeed.ic.2_9HrYj7WA.jpg" alt="Soufiane MEZROUI " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

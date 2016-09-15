@@ -7,7 +7,7 @@ categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+title-attr: Ahmed HADDAD
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed HADDAD">
            <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
       </li>  
 
@@ -58,7 +58,7 @@ title-attr: Ahmed Haddad
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" alt="Ahmed HADDAD" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
@@ -66,7 +66,7 @@ title-attr: Ahmed Haddad
       </div>
 
       <div class="item">
-        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed Haddad" width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad2.jpg" alt="Ahmed HADDAD" width="460" height="345">
         <div class="carousel-caption">
 
         </div>

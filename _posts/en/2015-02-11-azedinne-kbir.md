@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Azedine Kbir Bounekoub"
+layout: post-en
+title: "Azeddine KBIR BOUNEKOUB "
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg"
-title-attr: Azedine Kbir Bounekoub
+title-attr: Azeddine KBIR BOUNEKOUB 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Azedine Kbir Bounekoub
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azedine Kbir Bounekoub">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azeddine KBIR BOUNEKOUB">
            <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" width="175"></a>
       </li>  
 
@@ -30,7 +30,7 @@ title-attr: Azedine Kbir Bounekoub
 <ul>
 <li>Sex: male</li>
 <li>Date of birth: 17/7/1992</li>
-<li>Alias: Abu Abdullah</li>
+<li>Alias: ABU ABDULLAH</li>
 </ul> 
 
 
@@ -56,7 +56,7 @@ title-attr: Azedine Kbir Bounekoub
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" alt="Azedine Kbir Bounekoub" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" alt="Azeddine KBIR BOUNEKOUB " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
@@ -64,7 +64,7 @@ title-attr: Azedine Kbir Bounekoub
       </div>
 
       <div class="item">
-        <img src="http://www.politie.be/files/fed/attachments/640xNxada73d3038daa05bdf5e2d4af761acc3_thumb.jpg.pagespeed.ic._0ZUCMEPP3.jpg" alt="Azedine Kbir Bounekoub" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/640xNxada73d3038daa05bdf5e2d4af761acc3_thumb.jpg.pagespeed.ic._0ZUCMEPP3.jpg" alt="Azeddine KBIR BOUNEKOUB " width="460" height="345">
         <div class="carousel-caption">
 
         </div>

@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Mustapha Lahnachi"
+title: "Mustapha LAHNACHI"
 pubdate: "2009-03-15 00:10:00"
 factdate: "2009-03-15 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg"
-title-attr: Mustapha Lahnachi
+title-attr: Mustapha LAHNACHI
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Mustapha Lahnachi
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" title="Mustapha Lahnaci">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" title="Mustapha LAHNACHI">
            <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpgg" width="175" ></a>
       </li>  
 
@@ -52,7 +52,7 @@ On Sunday morning 15 MAR 2009 three inmates escaped from the penitentiary of Itt
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" alt="Mustapha Lahnaci" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" alt="Mustapha LAHNACHI" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

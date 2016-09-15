@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Nicolas Theodorou"
+title: "Nicolas THEODOROU "
 pubdate: "1999-11-15 00:10:00"
 factdate: "1999-11-15 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg"
-title-attr: Nicolas Theodorou
+title-attr: Nicolas THEODOROU 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Nicolas Theodorou
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg" title="Nicolas Theodorou">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg" title="Nicolas THEODOROU ">
            <img src="http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg" width="175"  ></a>
       </li>  
 
@@ -52,7 +52,7 @@ He was sentenced on 27 OCT 2005 by the Assize’s Court of Hainaut to 25 years o
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg" alt="Nicolas Theodorou" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/640xNxe0e1b1d41727ff27be48f4b789d79fcc_thumb.jpg.pagespeed.ic.bbBBxH2F95.jpg" alt="Nicolas THEODOROU " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

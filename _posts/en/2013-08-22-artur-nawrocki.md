@@ -1,6 +1,6 @@
 ---
-layout: post-nl
-title: "Artur Nawrocki"
+layout: post-en
+title: "Artur NAWROCKI "
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: english

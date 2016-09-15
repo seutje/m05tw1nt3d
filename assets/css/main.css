@@ -5453,3 +5453,6 @@ ul.polaroids a.small {
 .carousel-inner .item img {
   display: block;
   margin: auto; }
+
+ul.polaroids.small li {
+  height: 150px; }

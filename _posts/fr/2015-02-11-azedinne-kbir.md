@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Azedine Kbir Bounekoub"
+layout: post-fr
+title: "Azeddine KBIR BOUNEKOUB"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg"
-title-attr: Azedine Kbir Bounekoub
+title-attr: Azeddine KBIR BOUNEKOUB
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Azedine Kbir Bounekoub
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azedine Kbir Bounekoub">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azeddine KBIR BOUNEKOUB">
            <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" width="175"></a>
       </li>  
 
@@ -28,17 +28,17 @@ title-attr: Azedine Kbir Bounekoub
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 17/7/1992</li>
-<li>Alias: Abu Abdullah</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance: 17/07/1992</li>
+<li>Alias: ABU ABDULLAH</li>
 </ul> 
 
 
-<p>The fugitive named Azeddine KBIR BOUNEKOUB (17/07/1992) - alias ABU ABDULLAH- was an active member of the terrorist group Sharia4Belgium. He received the group’s text messages of the organisation. </p>
-<p>Azeddine KBIR BOUNEKOUB left for Syria where he joined the terrorist group Majlis Shura Al-Mujahidin. Later he joined the terrorist group Jahbat Al-Nursa. In Syria he held a leader position within the terrorist group. </p>
-<p>Various audiovisual data posted on the Internet show that he instigated to commit terrorist acts and threatened with terrorist attacks. </p>
-<p>The Court of First Instance of Antwerp sentenced him to 15 years of imprisonment with order for immediate arrest (sentence pronounced on 11 February 2015). </p>
-<p>Wanted notice circulated on 30/12/2015 on request of the Federal Prosecuting office. 
+<p>Le fugitif Azeddine KBIR BOUNEKOUBB (né le 17/07/1992) - alias ABU ABDULLAH- était un membre actif du groupe terroriste Sharia4Belgium. En tant que membre de cette organisation, il était le destinataire régulier des SMS du groupe. </p>
+<p>Azeddine KBIR BOUNEKOUB est parti en Syrie pour rejoindre le groupe terroriste Majlis Shura Al-Mujahidin. Ensuite, il a rejoint le groupe terroriste Jahbat Al-Nursa. En Syrie, il revêt un rôle de leader au sein de ce groupe terroriste.</p>
+<p>Des fichiers audiovisuels postés sur Internet démontrent qu'il a incité à commettre des actes terroristes et a menacé d'attaques terroristes.</p>
+<p>Le 11 février 2015, il a été condamné par le Tribunal de Première Instance d'Anvers à une peine d'emprisonnement de 15 ans avec arrestation immédiate. </p>
+<p>Publié le 30/12/2015 à la requête du parquet fédéral. 
 </p>
 
 <!-- SLIDER -->
@@ -75,11 +75,11 @@ title-attr: Azedine Kbir Bounekoub
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

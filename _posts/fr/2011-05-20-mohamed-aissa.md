@@ -1,13 +1,13 @@
 ---
-layout: post-en
-title: "Mohamed Aissa"
+layout: post-fr
+title: "Mohamed AISSA"
 pubdate: "2011-05-20 00:10:00"
 factdate: "2011-05-20 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x9d48c9c45f05c121f08ea999d5bf59ec_thumb.jpg.pagespeed.ic.0bgoIFjG_y.jpg"
-title-attr: Mohamed Aissa
+title-attr: Mohamed AISSA
 
 ---
 
@@ -28,15 +28,18 @@ title-attr: Mohamed Aissa
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 08/08/1973</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance: 08/08/1973</li>
 </ul> 
 
 
-<p>On 16 SEP 2014 Mohamed AISSA was sentenced by the Court of Assizes of Brussels to life imprisonment for the offences described below. </p>
-<p>On 20 MAY 2011, two men committed a theft with violence in an apartment situated in Brussels, Bergstraat. The victim died of her injuries, one of the perpetrators could be caught. The second, Mohamed AISSA, managed to escape the scene and is still on the run.</p>
-<p>If you have any information about the whereabouts of this fugitive, please get in touch with the police. Discretion will be assured.</p>
-<p>Wanted notice circulated on 26 AUG 2015 on request of the Prosecutor-general’s office of Brussels.
+<p>Mohamed AISSA a été condamné le 16 septembre 2014 par la Cour d'Assises de Bruxelles à un prisonnement à perpétuité.</p>
+<p>Le 20 mai 2011, deux auteurs ont commis un vol violent dans un appartement situé rue de la Montagne à Bruxelles. Suite à cette agression, la victime décèdera de ses blessures. L'enquête a permis d'intercepter un des auteurs. L'autre, Mohamed AISSA, a pu s'échapper. Jusqu'à ce jour, cette personne est toujours en fuite</p>
+
+
+<p>Si vous avez des informations sur la localisation de ce fugitif, veuillez contacter la police.</p>
+<p>Discrétion assuré.</p>
+<p>Diffusé le 26/08/2015 à la requête du Parquet Général de Bruxelles.
 </p>
 
 <!-- SLIDER -->
@@ -64,11 +67,11 @@ title-attr: Mohamed Aissa
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

@@ -1,13 +1,13 @@
 ---
-layout: post-en
+layout: post-fr
 title: "Jean-Claude Lacote"
 pubdate: "2011-12-15 00:10:00"
 factdate: "2011-12-15 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg"
-title-attr: Jean-Claude Lacote
+title-attr: Jean-Claude LACOTE
 
 ---
 
@@ -28,15 +28,15 @@ title-attr: Jean-Claude Lacote
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 04/09/1966</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance: 04/09/1966</li>
 </ul> 
 
 
-<p>The fugitive Jean-Claude LACOTE (born on 04 SEP 1966) and his Belgian girlfriend Hilde VAN ACKER (born on 26 MAR 1963) are wanted by the police.</p>
-<p>They were sentenced by default on 15 DEC 2011 by the Assize’s Court of West-Vlaanderen to life-imprisonment. 
-Both were sentenced for the murder on the British citizen Marcus John MITCHELL committed on 23 MAY 1996 in De Haan on the Belgian Coast. </p>
-<p>Wanted notice circulated on 15 SEP 2015 on request of FAST Belgium.
+<p>Le fugitif Jean-Claude LACOTE (né le 04/09/1966) et son amie belge Hilde VAN ACKER (née le 26/03/1963) sont recherchés par la police.</p>
+<p>Ils ont été condamnés par défaut le 15 décembre 2011 par la Court d'Assise de Flandre occidentale à la prison à perpétuité.
+Tous deux ont été condamnés pour le meurtre d'un ressortissant britannique, Marcus John Mitchell, le 23 mai 1996 à De Haan à la côte belge. </p>
+<p>Publié le 15/09/2015 à la requête du FAST Belgium.
 </p>
 
 <!-- SLIDER -->
@@ -72,11 +72,11 @@ Both were sentenced for the murder on the British citizen Marcus John MITCHELL c
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

@@ -1,13 +1,13 @@
 ---
-layout: post-nl
-title: "Zakaria Benaissa"
+layout: post-en
+title: "Zakaria BENAISSA "
 pubdate: "2013-06-07 00:10:00"
 factdate: "2013-06-07 00:09:00"
-categories: dutch
+categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg"
-title-attr: Zakaria Benaissa
+title-attr: Zakaria BENAISSA 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Zakaria Benaissa
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" title="Zakaria Benaissa">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" title="Zakaria BENAISSA ">
            <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg"  width="175"></a>
       </li>  
 
@@ -33,10 +33,10 @@ title-attr: Zakaria Benaissa
 </ul> 
 
 
-<p>The fugitive Vitezslav MRACEK (born on 19 FEB 1975) is wanted by the police.</p>
-<p>On Tuesday 28 JUL 2009 six inmates escaped from the penitentiary of Merksplas. Five could be caught soon after the escape but Vitezslav MRACEK is still on the run.</p>
-<p>Vitezslav MRACEK was sentenced by the Court of Appeal of Antwerp to 5 years of imprisonment for grand larceny. </p>
-<p>Wanted notice circulated on 26 AUG 2015 on request of the Prosecutor-general’s office of Antwerp.
+<p>The fugitive Zakaria BENAISSA (born on 19 MAR 1988) is wanted by the police.</p>
+<p>On 14/06/2013 BENAISSA Zakaria was sentenced by the Court of Assizes of Brussels to 23 years of imprisonment within the scope of the so-called ‘MANGA’-murder.  BENAISSA appeared in court as free man. He only attended Court the first day and went on the run after 07/06/2013. He is still a fugitive.</p>
+<p>If you have any information about the whereabouts of this fugitive, please get in touch with the police. Discretion will be assured.</p>
+<p>Wanted notice circulated on 27 SEP 2013 on request of the Public Prosecutor of Brussels.
 </p>
 
 <!-- SLIDER -->
@@ -53,7 +53,7 @@ title-attr: Zakaria Benaissa
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" alt="Zakaria Benaissa" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x7cf70c402063505b6f65f21e8ba9ac9c_thumb.jpg.pagespeed.ic.ISbL5-sfev.jpg" alt="Zakaria BENAISSA " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

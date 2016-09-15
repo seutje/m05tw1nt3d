@@ -1,13 +1,13 @@
 ---
-layout: post-nl
+layout: post-fr
 title: "Ahmed HADDAD"
 pubdate: "2015-09-21 00:10:00"
 factdate: "2013-08-17 00:09:00"
-categories: english
+categories: french
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x4ecacd2631c07fbe550e1363bf6f4c91_thumb.jpg.pagespeed.ic.GZ1mzgYLNq.jpg"
-title-attr: Ahmed Haddad
+title-attr: Ahmed HADDAD
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Ahmed Haddad
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed HADDAD">
            <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
       </li>  
 
@@ -28,18 +28,18 @@ title-attr: Ahmed Haddad
   <div class="col-xs-12 col-md-8">
  
 <ul>
-<li>Sex: male</li>
-<li>Date of birth: 06/11/1973</li>
-<li>Nationality: Morrocan</li>
-<li>Origin: Beni Boughadar, Morocco</li>
+<li>Sexe: masculin</li>
+<li>Date de naissance: 06/11/1973</li>
+<li>Nationalité: Marocain</li>
+<li>Origine: Beni Boughadar, Maroc</li>
 </ul> 
 
 
-<p>The fugitive Ahmed HADDAD (born on 06 NOV 1977 in Beni Boughafar, Morocco) is wanted by the police.
-He was sentenced on 19 NOV 2014 by the Court of First Instance of Brussels to 20 years of imprisonment for attempted murder.</p>
+<p>Le fugitif Ahmed HADDAD (né le 06/11/1977 à Beni Boughafar, Maroc) est recherché par la police.
+Il a été condamné le 19/11/2014 par le Tribunal Correctionnel de Bruxelles à 20 ans de détention pour tentative de meurtre..</p>
 
-<p>On 17 AUG 2013 he stabbed his ex-wife several times in the presence of their three young children. He left his victim for dead but she miraculously survived the attack.</p>
-<p>Wanted notice circulated on 21 SEP 2015 on request of FAST Belgium.
+<p>Le 17 août 2013, il a porté plusieurs coups de couteau à son ex-compagne en présence de leurs trois jeunes enfants. Il l'a laissée pour morte. Elle a survécu à ses blessures.</p>
+<p>Publié le 21/09/2015 à la requête du FAST Belgium.
 .</p>
 
 <!-- SLIDER -->
@@ -77,11 +77,11 @@ He was sentenced on 19 NOV 2014 by the Court of First Instance of Brussels to 20
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Précédent</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Suivant</span>
     </a>
   </div>
 </div>

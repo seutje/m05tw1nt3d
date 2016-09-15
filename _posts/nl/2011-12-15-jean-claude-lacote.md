@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Jean-Claude Lacote"
+title: "Jean-Claude LACOTE "
 pubdate: "2011-12-15 00:10:00"
 factdate: "2011-12-15 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg"
-title-attr: Jean-Claude Lacote
+title-attr: Jean-Claude LACOTE 
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Jean-Claude Lacote
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" title="Jean-Claude Lacote">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" title="Jean-Claude LACOTE ">
            <img src="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" ></a>
       </li>  
 
@@ -39,7 +39,7 @@ title-attr: Jean-Claude Lacote
 
 <p>Beiden werden veroordeeld voor de moord op de Brit Marcus John MITCHELL op 23 mei 1996 in De Haan aan de Belgische kust.</p>
 
-<p>Verspreid op 15/09/2015 op verzoek van FAST.</p>
+<p>Verspreid op 15-09-2015 op verzoek van FAST.</p>
 
 <!-- SLIDER -->
 <div class="container"  class="col-xs-12 col-md-12">
@@ -55,7 +55,7 @@ title-attr: Jean-Claude Lacote
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" alt="Jean-Claude Lacote" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" alt="Jean-Claude LACOTE " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

@@ -1,13 +1,13 @@
 ---
 layout: post-nl
-title: "Eric Robert De Cocq Van Delwijnen"
+title: "Eric Robert DE COCQ VAN DELWIJNEN"
 pubdate: "2011-06-22 00:10:00"
 factdate: "2011-06-22 00:09:00"
 categories: dutch
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg"
-title-attr: Eric Robert De Cocq Van Delwijnen
+title-attr: Eric Robert DE COCQ VAN DELWIJNEN
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Eric Robert De Cocq Van Delwijnen
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" title="Eric Robert De Cocq Van Delwijnen">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" title="Eric Robert DE COCQ VAN DELWIJNEN">
            <img src="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" width="175" ></a>
       </li>  
 
@@ -54,7 +54,7 @@ Hij is op 8 december 1966 geboren in Amsterdam en heeft de Nederlandse nationali
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" alt="Eric Robert De Cocq Van Delwijnen" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" alt="Eric Robert DE COCQ VAN DELWIJNEN" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

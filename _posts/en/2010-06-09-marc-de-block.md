@@ -1,13 +1,13 @@
 ---
 layout: post-en
-title: "Marc De Block"
+title: "Marc DE BLOCK"
 pubdate: "2010-06-09 00:10:00"
 factdate: "2010-06-09 00:09:00"
 categories: english
 
 
 thumb: "http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg"
-title-attr: Marc De Block
+title-attr: Marc DE BLOCK
 
 ---
 
@@ -17,7 +17,7 @@ title-attr: Marc De Block
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Ahmed Haddad">
+         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Marc DE BLOCK">
            <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" ></a>
       </li>  
 
@@ -51,7 +51,7 @@ He was sentenced on 9 JUN 2010 by the Court of Appeal of Mons to 7 years of impr
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc De Block" width="460" height="345">
+        <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" alt="Marc DE BLOCK" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
