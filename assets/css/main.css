@@ -6829,7 +6829,11 @@ html, body {
 /* line 4, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_canvas.scss */
 body {
   margin: 0 auto;
-  /*	@include retinize('bg/i_bg', 'jpg');*/ }
+  background-image: url("http://localhost:4000/assets/img/bg/i_bg.jpg"); }
+  @media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+    /* line 13, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/helpers/_mixins.scss */
+    body {
+      background-image: url("http://localhost:4000/assets/img/bg/i_bg-2x.jpg"); } }
 
 /* line 9, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_canvas.scss */
 .b_canvas {
@@ -6841,32 +6845,32 @@ body {
 /* line 1, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_logo-en {
   display: block;
-  background: url(http://fedpolbelgium.github.io/mwbelgium/assets/img/logo-fe.png) 10% 0 no-repeat;
+  background: url(/assets/img/logo-fe.png) 10% 0 no-repeat;
   height: 16rem; }
 
 /* line 7, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_logo-nl {
   display: block;
-  background: url(http://fedpolbelgium.github.io/mwbelgium/assets/img/logo-nl.png) 10% 0 no-repeat;
+  background: url(/assets/img/logo-nl.png) 10% 0 no-repeat;
   height: 16rem; }
 
-/* line 13, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
+/* line 15, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_logo-de {
   display: block;
-  background: url(http://fedpolbelgium.github.io/mwbelgium/assets/img/logo-de.png) 10% 0 no-repeat;
+  background: url(/assets/img/logo-de.png) 10% 0 no-repeat;
   height: 16rem; }
 
-/* line 19, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
+/* line 21, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_logo span {
   display: none; }
 
-/* line 21, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
+/* line 23, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_logo-enfast {
   display: block;
-  background: url(http://fedpolbelgium.github.io/mwbelgium/assets/img/logo-fast.jpg) 100% 0 no-repeat;
+  background: url(/assets/img/logo-fast.png) 90% 0 no-repeat;
   height: 16rem; }
 
-/* line 27, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
+/* line 30, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_header.scss */
 .b_title a {
   color: #000 !important; }
 
@@ -6881,7 +6885,7 @@ ul.polaroids a {
   color: #333333;
   display: inline;
   float: left;
-  font-family: 'Marker Felt', sans-serif;
+  /*font-family:'Marker Felt', sans-serif;*/
   font-size: 18px;
   margin: 0 0 27px 30px;
   padding: 10px 10px 15px;
@@ -6892,23 +6896,27 @@ ul.polaroids a {
   width: auto; }
 
 /* line 22, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+ul.polaroids {
+  list-style-type: none !important; }
+
+/* line 26, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li {
-  list-style-image: none !important; }
+  height: 300px; }
 
 /* By default, we tilt all our images -2 degrees */
-/* line 27, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 29, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids a {
   -webkit-transform: rotate(-2deg);
   -moz-transform: rotate(-2deg); }
 
 /* Rotate all even images 2 degrees */
-/* line 33, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 35, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li:nth-child(even) a {
   -webkit-transform: rotate(2deg);
   -moz-transform: rotate(2deg); }
 
 /* Don't rotate every third image, but offset its position */
-/* line 39, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 41, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li:nth-child(3n) a {
   -webkit-transform: none;
   -moz-transform: none;
@@ -6916,7 +6924,7 @@ ul.polaroids li:nth-child(3n) a {
   top: -5px; }
 
 /* Rotate every fifth image by 5 degrees and offset it */
-/* line 47, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 49, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li:nth-child(5n) a {
   -webkit-transform: rotate(5deg);
   -moz-transform: rotate(5deg);
@@ -6924,21 +6932,21 @@ ul.polaroids li:nth-child(5n) a {
   right: 5px; }
 
 /* Keep default rotate for every eighth, but offset it */
-/* line 55, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 57, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li:nth-child(8n) a {
   position: relative;
   top: 8px;
   right: 5px; }
 
 /* Keep default rotate for every eleventh, but offset it */
-/* line 62, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 64, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li:nth-child(11n) a {
   position: relative;
   top: 3px;
   left: -5px; }
 
 /* Scale the images on hover, add transitions for smoothing things out, and ensure the hover appears on top */
-/* line 69, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 71, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids li a:hover {
   -webkit-transform: scale(1.25);
   -moz-transform: scale(1.25);
@@ -6946,19 +6954,19 @@ ul.polaroids li a:hover {
   z-index: 5; }
 
 /* Add drop shadows and smooth out the transition (Safari only) */
-/* line 77, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 79, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids a {
   -webkit-transition: -webkit-transform 0.15s linear;
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25); }
 
 /* On hover, darken the shadows a bit */
-/* line 84, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 86, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids a {
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5); }
 
-/* line 89, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
+/* line 91, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-card.scss */
 ul.polaroids a.small {
   max-width: 100px;
   font-size: .8em; }
@@ -6973,5 +6981,9 @@ ul.polaroids a.small {
 .carousel-inner .item img {
   display: block;
   margin: auto; }
+
+/* line 13, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_wanted-post.scss */
+ul.polaroids.small li {
+  height: 150px; }
 
 /*# sourceMappingURL=main.css.map */
