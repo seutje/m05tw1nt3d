@@ -1,9 +1,12 @@
+---
+---
+
 //core canvas of the website
 html, body {height:100%;}
 
 body {
 	margin:0 auto;
-	@include retinize('bg/i_bg', 'jpg');
+	@include retinize('{{ URL }}bg/i_bg', 'jpg');
 	}
 
 .b_canvas {
