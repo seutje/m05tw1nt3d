@@ -1,11 +1,10 @@
 # Site settings
 title: Belgium's Most Wanted
 email: cgc.digital@police.belgium.eu
-description: "website description"
-#baseurl: "http://fedpolbelgium.github.io/mwbelgium"
+description: "first draft of the MW Belgium website"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: fedpol_pers
+url: "http://fedpolbelgium.github.io/m05tw1nt3d"
+twitter_username: federalepolitie
 github_username:  fedpolbelgium
 
 # Build settings
