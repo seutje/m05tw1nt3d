@@ -1,6 +1,6 @@
 ---
 layout: post-nl
-title: "Azeddine KBIR BOUNEKOUBBAzeddine KBIR BOUNEKOUBB"
+title: "Azeddine KBIR BOUNEKOUBB"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
 categories: dutch
@@ -11,7 +11,7 @@ title-attr: Azeddine KBIR BOUNEKOUBB
 
 ---
 
-<div class="row">
+<div class="row" markdown="1">
 
   <div class="col-xs-6 col-md-4">
 <ul class="row polaroids">

@@ -11,7 +11,9 @@ title-attr: Mustapha LAHNACHI
 
 ---
 
-<div class="row">
+
+
+<div class="row" markdown="1">
 
   <div class="col-xs-6 col-md-4">
 <ul class="row polaroids">
@@ -26,11 +28,13 @@ title-attr: Mustapha LAHNACHI
   
   </div>
   <div class="col-xs-12 col-md-8">
- 
-<ul>
+
+ <ul>
 <li>Sex: male</li>
 <li>Date of birth: 01/11/1978</li>
+<li>Conviction: 15/09/2009</li>
 </ul> 
+
 
 
 <p>The fugitive Mustapha LAHNACHI (born on 1 NOV 1978) is wanted by the police. He is on the run and violent.
