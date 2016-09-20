@@ -36,9 +36,9 @@ title-attr: Kassim GEIBI
 </ul> 
 
 
-<p>The fugitive Kassim GEIBI was sentenced to life imprisonment on 24 January 2003 by the court of assizes of Walloon Brabant for robbery and murder on Patrick CLAVEREAU.</p>
-<p>The crime was committed in Lillois in July 2000.</p>
-<p>The photograph was taken in 2008, subject may have altered his appearance. </p>
+<p>De voortvluchtige Kassim GEIBI werd op 24 januari 2003  tot een levenslange opsluiting veroordeeld door het hof van assisen van Waals-Brabant voor roofmoord op Patrick CLAVEREAU.</p>
+<p>De feiten grepen plaats in juli 2000 te Lillois.
+</p>
 
 
 <!-- SLIDER -->
@@ -55,23 +55,6 @@ title-attr: Kassim GEIBI
 
       <div class="item active">
         <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

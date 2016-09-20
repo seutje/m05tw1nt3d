@@ -36,8 +36,8 @@ title-attr: Jamal EL HAYANI
 </ul> 
 
 
-<p>The fugitive Jamal EL HAYANI was part of a criminal organisation that engaged in the large-scaled and professional import/export, production and trade of false documents to facilitate human trafficking. </p>
-<p>He was sentenced to 8 years imprisonment by the court of first instance in Brussels with order for immediate arrest (judgment 22 May 2014)
+<p>De voortvluchtige Jamal EL HAYANI maakte deel uit van een criminele organisatie die op grote schaal en op professionele wijze valse documenten in-en uitvoerden, vervaardigden en verhandelden voor het faciliteren van mensenhandel.</p>
+<p>Hij werd hiervoor door de Rechtbank van eerste aanleg te Brussel  veroordeeld tot een gevangenisstraf van 8 jaar met onmiddellijke aanhouding. (vonnis 22 mei 2014)
 </p>
 
 

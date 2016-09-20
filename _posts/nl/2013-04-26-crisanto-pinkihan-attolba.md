@@ -38,7 +38,6 @@ title-attr: Crisianto PINKIHAN ATTOLBA
 
 <p>PINKIHAN ATTOLBA Crisanto werd op 26 april 2013  tot 15 jaar opsluiting veroordeeld door het Hof van Assisen van Vlaams-Brabant voor de moord op Raul Simeon.</p>
 <p>De feiten grepen plaats te Zaventem op 2 oktober 2005. Het slachtoffer Raul Simeon werd met verschillende messteken om het leven gebracht.
-
 </p>
 
 
