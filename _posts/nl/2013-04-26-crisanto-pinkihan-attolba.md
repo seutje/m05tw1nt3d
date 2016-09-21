@@ -6,7 +6,7 @@ factdate: "2013-04-26 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/pinkihan/i_pinkihan.jpg"
 title-attr: Crisianto PINKIHAN ATTOLBA
 
 ---
@@ -15,10 +15,10 @@ title-attr: Crisianto PINKIHAN ATTOLBA
 
   <div class="col-xs-6 col-md-4">
 <ul class="row polaroids">
-
+Hi There!
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Jamal EL HAYANI  ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" title="Crisianto PINKIHAN ATTOLBA">
+           <img src="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" width="175" ></a>
       </li>  
 
   </ul>

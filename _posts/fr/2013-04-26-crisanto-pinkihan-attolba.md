@@ -1,12 +1,12 @@
 ---
-layout: post-nl
+layout: post-fr
 title: "Crisanto Pinkihan Attolba"
 pubdate: "2013-04-26 00:10:00"
 factdate: "2013-04-26 00:09:00"
-categories: dutch
+categories: french
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/pinkihan/i_pinkihan.jpg"
 title-attr: Crisianto PINKIHAN ATTOLBA
 
 ---
@@ -17,8 +17,8 @@ title-attr: Crisianto PINKIHAN ATTOLBA
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Jamal EL HAYANI  ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" title="Crisanto Pinkihan Attolba">
+           <img src="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -29,16 +29,15 @@ title-attr: Crisianto PINKIHAN ATTOLBA
 
 
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 29/07/1967</li>
-<li>Nationaliteit: Filipino</li>
-<li>Etnische origine: Filipijnen</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 29/07/1967</li>
+<li>Nationalité: Filipino</li>
+<li>Origine: Filipines/li>
 </ul> 
 
 
-<p>PINKIHAN ATTOLBA Crisanto werd op 26 april 2013  tot 15 jaar opsluiting veroordeeld door het Hof van Assisen van Vlaams-Brabant voor de moord op Raul Simeon.</p>
-<p>De feiten grepen plaats te Zaventem op 2 oktober 2005. Het slachtoffer Raul Simeon werd met verschillende messteken om het leven gebracht.
-
+<p>Le 26 avril 2013 la Cour d'Assises du Brabant Flamand a condamné PINKIHAN ATTOLBA Crisanto à une peine d'emprisonnement de 15 ans pour le meurtre de Raul Simeon.</p>
+<p>Les faits ont été commis à Zaventem le 2 octobre 2005. La victime Rail Simeon est décédée suite à de multiples coup reçus.
 </p>
 
 
@@ -55,29 +54,13 @@ title-attr: Crisianto PINKIHAN ATTOLBA
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" alt="Crisanto Pinkihan Attolba" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
 
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
   
     </div>
 

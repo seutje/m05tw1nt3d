@@ -1,12 +1,12 @@
 ---
-layout: post-nl
+layout: post-fr
 title: "Jamal El Hayani"
 pubdate: "2014-05-22 00:10:00"
 factdate: "2014-05-22 00:09:00"
-categories: dutch
+categories: french
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/elhayani/i_elhayani.jpg"
 title-attr: Jamal EL HAYANI
 
 ---
@@ -17,8 +17,8 @@ title-attr: Jamal EL HAYANI
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Jamal EL HAYANI  ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" title="Jamal EL HAYANI  ">
+           <img src="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -29,15 +29,16 @@ title-attr: Jamal EL HAYANI
 
 
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 05/10/1976</li>
-<li>Nationaliteit: Algerijn</li>
-<li>Etnische origine: Algerije</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 05/10/1976</li>
+<li>Nationalité: Algérien</li>
+<li>Origine: Algérie</li>
 </ul> 
 
 
-<p>The fugitive Jamal EL HAYANI was part of a criminal organisation that engaged in the large-scaled and professional import/export, production and trade of false documents to facilitate human trafficking. </p>
-<p>He was sentenced to 8 years imprisonment by the court of first instance in Brussels with order for immediate arrest (judgment 22 May 2014)
+<p>Le fugitif Jamal EL HAYANI a fait partie d'une organisation criminelle qui , à grande échelle et de façon professionnelle, s'occupait d'importation et d'exportation de faux documents qu'il  confectionnait et vendait pour faciliter le trafic d'être humains</p>
+
+<p>Il a été condamné par le Tribunal de Première Instance de Bruxelles à une peine d'emprisonnement de 8 ans avec arrestation immédiate ( jugement du 22 mai 2014)
 </p>
 
 
@@ -54,24 +55,7 @@ title-attr: Jamal EL HAYANI
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" alt="Jamal El Hayani" width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

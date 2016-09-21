@@ -6,7 +6,7 @@ factdate: "2003-01-24 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/geibi/i_geibi.jpg"
 title-attr: Kassim GEIBI
 
 ---
@@ -17,8 +17,8 @@ title-attr: Kassim GEIBI
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Kassim GEIBI ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" title="Kassim GEIBI ">
+           <img src="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -54,7 +54,7 @@ title-attr: Kassim GEIBI
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" alt="Kassim Geibi " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

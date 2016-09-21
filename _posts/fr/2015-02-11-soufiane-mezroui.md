@@ -1,5 +1,5 @@
 ---
-layout: post-en
+layout: post-fr
 title: "Soufiane MEZROUI"
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"

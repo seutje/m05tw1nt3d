@@ -1,12 +1,12 @@
 ---
 layout: post-nl
-title: "Jamal El Hayani"
+title: "Jamal EL HAYANI"
 pubdate: "2014-05-22 00:10:00"
 factdate: "2014-05-22 00:09:00"
 categories: dutch
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/elhayani/i_elhayani.jpg"
 title-attr: Jamal EL HAYANI
 
 ---
@@ -17,8 +17,8 @@ title-attr: Jamal EL HAYANI
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Jamal EL HAYANI  ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" title="Jamal EL HAYANI  ">
+           <img src="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -54,29 +54,13 @@ title-attr: Jamal EL HAYANI
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ baseurl }}/assets/img/p/elhayani/i_elhayani.jpg" alt="Jamal El Hayani " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
 
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
   
     </div>
 

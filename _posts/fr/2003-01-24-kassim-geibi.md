@@ -1,12 +1,12 @@
 ---
-layout: post-nl
+layout: post-fr
 title: "Kassim Geibi"
 pubdate: "2003-01-24 00:10:00"
 factdate: "2003-01-24 00:09:00"
-categories: dutch
+categories: french
 
 
-thumb: "http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg"
+thumb: "assets/img/p/geibi/i_geibi.jpg"
 title-attr: Kassim GEIBI
 
 ---
@@ -17,8 +17,8 @@ title-attr: Kassim GEIBI
 <ul class="row polaroids">
 
        <li class="col-md-12">  
-         <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Kassim GEIBI ">
-           <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
+         <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" title="Kassim GEIBI ">
+           <img src="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" width="175" ></a>
       </li>  
 
   </ul>
@@ -29,16 +29,16 @@ title-attr: Kassim GEIBI
 
 
 <ul>
-<li>Geslacht: man</li>
-<li>Geboortedatum: 01/07/1966</li>
-<li>Nationaliteit: Irakees</li>
-<li>Etnische origine: Irak</li>
+<li>Sexe: male</li>
+<li>Date de naissance: 01/07/1966</li>
+<li>Nationalité: Irakien</li>
+<li>Origine: Irak</li>
 </ul> 
 
 
-<p>The fugitive Kassim GEIBI was sentenced to life imprisonment on 24 January 2003 by the court of assizes of Walloon Brabant for robbery and murder on Patrick CLAVEREAU.</p>
-<p>The crime was committed in Lillois in July 2000.</p>
-<p>The photograph was taken in 2008, subject may have altered his appearance. </p>
+<p>Le fugitif Kasim GEIBI a été condamné par la Cour d'Assises du Brabant wallon le 24 janvier 2003 pour le meurtre commis pour faciliter le vol sur Patrick CLAVEREAU.</p>
+
+<p>Le crime a été commis à Lillois en juillet 2000. </p>
 
 
 <!-- SLIDER -->
@@ -54,24 +54,7 @@ title-attr: Kassim GEIBI
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/geibi/i_geibi.jpg" alt="Kassim Geibi " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>

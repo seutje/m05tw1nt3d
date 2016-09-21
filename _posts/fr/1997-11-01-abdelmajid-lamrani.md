@@ -30,7 +30,7 @@ title-attr: Abdelmajid LAMRANI
 <ul>
 <li>Sexe: male</li>
 <li>Date de naissance: 04/08/1969</li>
-<li>Nationalité: Moroccon</li>
+<li>Nationalité: Marocain</li>
 <li>Origine: Tanger, Maroc</li>
 </ul> 
 
