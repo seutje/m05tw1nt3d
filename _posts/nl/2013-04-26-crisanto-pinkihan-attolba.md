@@ -15,7 +15,7 @@ title-attr: Crisianto PINKIHAN ATTOLBA
 
   <div class="col-xs-6 col-md-4">
 <ul class="row polaroids">
-Hi There!
+
        <li class="col-md-12">  
          <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" title="Crisianto PINKIHAN ATTOLBA">
            <img src="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" width="175" ></a>
@@ -54,29 +54,13 @@ Hi There!
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" alt="Hayk Terterian " width="460" height="345">
+        <img src="{{ site.baseurl }}/assets/img/p/pinkihan/i_pinkihan.jpg" alt="PINKIHAN ATTOLBA Crisanto " width="460" height="345">
         <div class="carousel-caption">
           <h3> </h3>
           <p> </p>
         </div>
       </div>
 
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/b9780d4862dfe62a335e521ccaf20a7c.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-      
-      <div class="item">
-        <img src="http://www.police.be/files/fed/attachments/3fd5d20894a4c0a4d70296fee75041e6.jpg" alt="Hayk Terterian " width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
   
     </div>
 
