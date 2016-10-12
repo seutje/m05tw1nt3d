@@ -13,16 +13,9 @@ title-attr: Gert LOENDERS
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4"> 
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert LOENDERS">
-           <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
-
+           <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" ></a>
   
   </div>
   <div class="col-xs-12 col-md-8">

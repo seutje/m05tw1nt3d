@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Mustapha LAHNACHI"
+tags: [gijzeling, slagen en verwondingen]
 pubdate: "2009-03-15 00:10:00"
 factdate: "2009-03-15 00:09:00"
 categories: dutch
@@ -13,15 +14,10 @@ title-attr: Mustapha LAHNACHI
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
+ 
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpg" title="Mustapha LAHNACHI">
-           <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpgg" width="175" ></a>
-      </li>  
-
-  </ul>
+           <img src="http://www.politie.be/files/fed/attachments/400x500xc3c746ab8764805d7b7debcb5a31bc99_thumb.JPG.pagespeed.ic.9Slxc4kItR.jpgg" ></a>
 
   
   </div>

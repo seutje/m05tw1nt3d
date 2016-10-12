@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Gabriel FODDERIE"
+tags: "doodslag"
 pubdate: "2009-05-02 00:10:00"
 factdate: "2009-05-02 00:09:00"
 categories: dutch
@@ -13,16 +14,10 @@ title-attr: Gabriel FODDERIE
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" title="Gabriel FODDERIE">
            <img src="http://www.politie.be/files/fed/attachments/400x500x2916bc468de1db93a691cc6daf4704f3_thumb.jpg.pagespeed.ic.1RIjxOpnXb.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
-
   
   </div>
   <div class="col-xs-12 col-md-8">

@@ -1,6 +1,7 @@
 ---
 layout: post-fr
 title: "Artur NAWROCKI"
+tags: drogues
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: french
@@ -13,15 +14,11 @@ title-attr: Artur NAWROCKI
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" title="Artur NAWROCKI">
-           <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" width="175" ></a>
-      </li>  
+           <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" ></a>
 
-  </ul>
   </div>
   <div class="col-xs-12 col-md-8">
  

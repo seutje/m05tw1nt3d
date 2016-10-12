@@ -13,15 +13,9 @@ title-attr: Jean-Claude LACOTE
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" title="Jean-Claude LACOTE ">
            <img src="http://www.politie.be/files/fed/attachments/400x500xdaf4965fdeca297a3dac8dc7fbe827b0_thumb.jpg.pagespeed.ic.xlQlzZQQ7F.jpg" ></a>
-      </li>  
-
-  </ul>
 
   
   </div>

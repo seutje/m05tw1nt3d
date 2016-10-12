@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+/* line 8, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+body {
+  font-size: 1.8em; }
+
+/* line 13, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+h2.b_title, p, ul {
+  font-family: 'PT Serif', 'Courier New', monospace;
+  width: 100%;
+  line-height: 1.6 !important; }
+
+/* line 19, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+h1 sub {
+  font-size: 50%;
+  color: white;
+  background: grey;
+  padding: 0 0.2em; }
+
+/* line 26, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+p, li {
+  font-family: 'PT Sans'; }
+
+/* line 30, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+h2.b_title, .content h2 {
+  font-size: 2.4em;
+  text-align: center;
+  font-family: 'PT Sans'; }
+
+/* line 36, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+.content h2 {
+  text-align: left; }
+
+/* line 41, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+.post h1 {
+  font-family: 'PT Serif', 'Courier New', monospace; }
+
+/* line 47, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+hr {
+  border: 0;
+  width: 100%;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  align-content: center; }
+
+/* line 56, C:/Users/Gert/Desktop/Projects/m05tw1nt3d/assets/css/layout/_typography.scss */
+footer p {
+  text-align: center; }
+
+/*# sourceMappingURL=_typography.css.map */

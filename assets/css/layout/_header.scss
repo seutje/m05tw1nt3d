@@ -1,35 +1,50 @@
----
----
+.b_logo {
+    max-height: 5em;
+}
 
+.b_logo-l {
+   text-align: left;
+    float: left;
+}
+   
+.b_logo-r {
+   text-align: right;
+   float: right;
+}
+   
+    
 .b_logo-en {
     display:block;
-    background: url({{ url }}/assets/img/logo-fe.png) 10% 0 no-repeat;
+    background: url(/assets/img/logo-fe.png) 10% 0 no-repeat;
     height: 16rem;
 }
 
 .b_logo-nl {
-    display:block;
-    background: url({{ url }}/assets/img/logo-nl.png) 10% 0 no-repeat;
-    height: 16rem;
+    display:inline;
+    background: url(/assets/img/logo-nl.png) 0 0 no-repeat;
+    height: 4rem;
 }
 
 
 
 .b_logo-de {
     display:block;
-    background: url({{ url }}/assets/img/logo-de.png) 10% 0 no-repeat;
+    background: url(/assets/img/logo-de.png) 10% 0 no-repeat;
     height: 16rem;
 }
 
-.b_logo span { display:none;}
-
 .b_logo-enfast { 
     display:block;
-    background: url({{ url }}/assets/img/logo-fast.png) 90% 0 no-repeat;
-    height:16rem;
+    background: url(/assets/img/logo-fast.png) 20% 0 no-repeat;
+    height:20rem;
  
 }
 
 .b_title a {
     color:#000!important;
+}
+
+.b_title a:hover {
+    font-weight: 800;
+    text-decoration: none;
 }

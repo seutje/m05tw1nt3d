@@ -1,7 +1,9 @@
 // Typography
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
-@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
 body {
     font-size: 1.8em;
@@ -9,23 +11,35 @@ body {
 
 // basic font styles
 h2.b_title, p, ul {
-    font-family:'Cutive Mono', 'Courier New', monospace;
+    font-family:'PT Serif', 'Courier New', monospace;
     width: 100%;
-    line-height: 2 !important;
+    line-height: 1.6 !important;
 }
 
-h2.b_title {
+h1 sub {
+    font-size: 50%;
+    color: white;
+    background:grey;
+    padding: 0 0.2em;
+}
+
+p, li {
+    font-family: 'PT Sans';
+}
+
+h2.b_title, .content h2 {
     font-size:2.4em;
     text-align: center;
-    font-family: Montserrat;
-    font-weight: 900;
+    font-family: 'PT Sans';
 }
 
+.content h2 {
+    text-align: left;
+}
 
 
 .post h1,  { 
-    font-family:'Cutive Mono', 'Courier New', monospace;
-    font-weight: 400;
+    font-family:'PT Serif', 'Courier New', monospace;
 
 }
     

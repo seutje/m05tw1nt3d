@@ -13,17 +13,9 @@ title-attr: Azeddine KBIR BOUNEKOUB
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azeddine KBIR BOUNEKOUB">
-           <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" width="175"></a>
-      </li>  
-
-  </ul>
-
-  
+           <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" ></a>  
   </div>
   <div class="col-xs-12 col-md-8">
  

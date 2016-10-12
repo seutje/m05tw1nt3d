@@ -1,6 +1,7 @@
 ---
 layout: post-fr
 title: "Gert LOENDERS"
+tags: drogues
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: french
@@ -14,14 +15,9 @@ title-attr: Gert LOENDERS
 <div class="row">
 
   <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" title="Gert LOENDERS">
-           <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
+           <img src="http://www.politie.be/files/fed/attachments/400x500x637b1b6a93eee3c5d33db597a60256bd_thumb.jpg.pagespeed.ic.kGRDLCmdwa.jpg" ></a>
 
   
   </div>

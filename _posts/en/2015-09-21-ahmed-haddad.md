@@ -13,16 +13,9 @@ title-attr: Ahmed HADDAD
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
          <a class="thumbnail" href="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" title="Ahmed HADDAD">
            <img src="{{ site.baseurl }}/assets/img/p/haddad/haddad1.jpg" ></a>
-      </li>  
-
-  </ul>
-
   
   </div>
   <div class="col-xs-12 col-md-8">

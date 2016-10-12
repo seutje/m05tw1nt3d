@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Artur NAWROCKI"
+tags: drugshandel
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: dutch
@@ -13,15 +14,10 @@ title-attr: Artur NAWROCKI
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
+ 
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" title="Artur NAWROCKI">
            <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
   </div>
   <div class="col-xs-12 col-md-8">
  

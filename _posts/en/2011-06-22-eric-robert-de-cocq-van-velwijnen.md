@@ -12,16 +12,10 @@ title-attr: Eric Robert DE COCQ VAN DELWIJNEN
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" title="Eric Robert DE COCQ VAN DELWIJNEN ">
            <img src="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
-
   
   </div>
   <div class="col-xs-12 col-md-8">
@@ -40,46 +34,6 @@ title-attr: Eric Robert DE COCQ VAN DELWIJNEN
 Wanted notice circulated on 26 JUN 2015 on request of FAST Belgium.
 </p>
 
-<!-- SLIDER -->
-<div class="container"  class="col-xs-12 col-md-12">
-  <br>
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="http://www.politie.be/files/fed/attachments/400x500xf15c85fca1bf66a5f37b1910a3c8eb94_thumb.jpg.pagespeed.ic.NITGVtpuYo.jpg" alt="Eric Robert DE COCQ VAN DELWIJNEN" width="460" height="345">
-        <div class="carousel-caption">
-          <h3> </h3>
-          <p> </p>
-        </div>
-      </div>
-
-  
-    </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <!-- SLIDER -->
-  
 </div>
 
 

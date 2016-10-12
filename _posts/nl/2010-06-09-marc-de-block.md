@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Marc DE BLOCK"
+tags: drugshandel
 pubdate: "2010-06-09 00:10:00"
 factdate: "2010-06-09 00:09:00"
 categories: dutch
@@ -13,15 +14,10 @@ title-attr: Marc DE BLOCK
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" title="Marc DE BLOCK">
            <img src="http://www.politie.be/files/fed/attachments/400x500x63f13628b3d4de22f1807e9138b1c9d7_thumb.jpg.pagespeed.ic.A9lMT6cVVu.jpg" ></a>
-      </li>  
-
-  </ul>
 
   
   </div>

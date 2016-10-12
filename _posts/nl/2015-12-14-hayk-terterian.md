@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Hayk Terterian"
+tags: [verkrachting, mishandeling]
 pubdate: "2015-12-14 00:10:00"
 factdate: "2015-12-14 00:09:00"
 categories: dutch
@@ -13,16 +14,9 @@ title-attr: Hayk TERTERIAN
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" title="Hayk TERTERIAN  ">
            <img src="http://www.politie.be/files/fed/attachments/60ae33ddbafed3653066e1051b813df3.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
-
   
   </div>
   <div class="col-xs-12 col-md-8">

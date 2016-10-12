@@ -13,15 +13,9 @@ title-attr: Artur Nawrocki
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" title="Artur Nawrocki">
-           <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" width="175" ></a>
-      </li>  
-
-  </ul>
+           <img src="http://www.politie.be/files/fed/attachments/400x500xe164505c0fa184b1f5406e023813e502_thumb.jpg.pagespeed.ic.w9fcwvSKQY.jpg" ></a>
   </div>
   <div class="col-xs-12 col-md-8">
  

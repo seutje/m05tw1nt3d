@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Azeddine KBIR BOUNEKOUBB"
+tags: terrorisme
 pubdate: "2015-02-11 00:10:00"
 factdate: "2013-02-11 00:09:00"
 categories: dutch
@@ -11,17 +12,13 @@ title-attr: Azeddine KBIR BOUNEKOUBB
 
 ---
 
-<div class="row" markdown="1">
+<div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" title="Azeddine KBIR BOUNEKOUBB">
            <img src="http://www.politie.be/files/fed/attachments/400x500xd91fb353122f5ba34122652cedaf1799_thumb.jpg.pagespeed.ic.ssopa8_Vxa.jpg" width="175"></a>
-      </li>  
 
-  </ul>
 
   
   </div>

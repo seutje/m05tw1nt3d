@@ -13,16 +13,10 @@ title-attr: Hilde VAN ACKER
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
-
-       <li class="col-md-12">  
+  <div class="col-xs-12 col-md-4">
+  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" title="Hilde VAN ACKER">
            <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" ></a>
-      </li>  
-
-  </ul>
-
   
   </div>
   <div class="col-xs-12 col-md-8">

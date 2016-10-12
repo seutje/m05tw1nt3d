@@ -1,6 +1,7 @@
 ---
 layout: post-fr
 title: "Hilde VAN ACKER"
+tags: meurtre
 pubdate: "2011-12-15 00:10:00"
 factdate: "2011-12-15 00:09:00"
 categories: french
@@ -13,15 +14,10 @@ title-attr: Hilde VAN ACKER
 
 <div class="row">
 
-  <div class="col-xs-6 col-md-4">
-<ul class="row polaroids">
+  <div class="col-xs-12 col-md-4">
 
-       <li class="col-md-12">  
          <a class="thumbnail" href="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" title="Hilde Van Ackter">
            <img src="http://www.politie.be/files/fed/attachments/400x500x8b7bb1fd3efa97bc42e4e8a5b6eebe56_thumb.jpg.pagespeed.ic.acMdBUHJd7.jpg" ></a>
-      </li>  
-
-  </ul>
 
   
   </div>
