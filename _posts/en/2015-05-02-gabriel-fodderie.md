@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Gabriel FODDERIE"
+tags: murder
 pubdate: "2009-05-02 00:10:00"
 factdate: "2009-05-02 00:09:00"
 categories: english

@@ -5338,16 +5338,16 @@ html, body {
 
 body {
   margin: 0 auto;
-  background-image: url("http://localhost:4000/assets/img/bg/bg-fast-a.jpg");
+  background-image: url("http://localhost:4000/assets/img/bg/i_bg_lint1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; }
   @media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3 / 2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
     body {
-      background-image: url("http://localhost:4000/assets/img/bg/bg-fast-a-2x.jpg"); } }
+      background-image: url("http://localhost:4000/assets/img/bg/i_bg_lint1-2x.jpg"); } }
 
 .b_canvas {
-  width: 80%;
+  width: 90%;
   max-width: 100.50945rem;
   padding: 0.6rem 3.6rem;
   margin: 0 auto;

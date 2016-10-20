@@ -3,14 +3,14 @@ html, body {height:80%;}
 
 body {
 	margin:0 auto;
-	@include retinize('bg/bg-fast-a', 'jpg');
+	@include retinize('bg/i_bg_lint1', 'jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 	}
 
 .b_canvas {
-    width: 80%;
+    width: 90%;
     max-width:100.50945rem;
     padding:0.6rem 3.6rem;
 	margin:0 auto;

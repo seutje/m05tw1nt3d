@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Mustapha LAHNACHI"
+tags: hostage-taking
 pubdate: "2009-03-15 00:10:00"
 factdate: "2009-03-15 00:09:00"
 categories: english

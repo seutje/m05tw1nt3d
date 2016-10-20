@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Mohamed AISSA"
+tags: "theft with violence"
 pubdate: "2011-05-20 00:10:00"
 factdate: "2011-05-20 00:09:00"
 categories: english

@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Zakaria BENAISSA "
+tags: murder
 pubdate: "2013-06-07 00:10:00"
 factdate: "2013-06-07 00:09:00"
 categories: english

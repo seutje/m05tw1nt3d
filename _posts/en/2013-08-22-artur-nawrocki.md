@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Artur NAWROCKI "
+tags: drugs
 pubdate: "2013-08-22 00:10:00"
 factdate: "2013-08-22 00:09:00"
 categories: english

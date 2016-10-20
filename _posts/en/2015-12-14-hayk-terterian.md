@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Hayk Terterian"
+tags: rape
 pubdate: "2015-12-14 00:10:00"
 factdate: "2015-12-14 00:09:00"
 categories: english

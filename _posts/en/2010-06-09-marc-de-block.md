@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Marc DE BLOCK"
+tags: drugs
 pubdate: "2010-06-09 00:10:00"
 factdate: "2010-06-09 00:09:00"
 categories: english

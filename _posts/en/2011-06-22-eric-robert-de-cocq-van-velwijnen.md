@@ -1,6 +1,7 @@
 ---
 layout: post-nl
 title: "Eric Robert DE COCQ VAN DELWIJNEN "
+tags: "attempted murder"
 pubdate: "2011-06-22 00:10:00"
 factdate: "2011-06-22 00:09:00"
 categories: english

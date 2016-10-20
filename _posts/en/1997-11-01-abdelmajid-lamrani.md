@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Abdelmajid LAMRANI "
+tags: murder
 pubdate: "1997-11-01 00:10:00"
 factdate: "1997-11-01 00:09:00"
 categories: english

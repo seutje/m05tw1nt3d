@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Jean-Claude LACOTE "
+tags: murder
 pubdate: "2011-12-15 00:10:00"
 factdate: "2011-12-15 00:09:00"
 categories: english

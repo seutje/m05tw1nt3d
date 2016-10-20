@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Asif BACHIR"
+tags: murder
 pubdate: "1998-08-04 00:10:00"
 factdate: "1998-08-04 00:09:00"
 categories: english

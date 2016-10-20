@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Crisanto Pinkihan Attolba"
+tags: murder
 pubdate: "2013-04-26 00:10:00"
 factdate: "2013-04-26 00:09:00"
 categories: english

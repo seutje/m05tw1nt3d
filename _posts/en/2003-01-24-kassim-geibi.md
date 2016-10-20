@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Kassim Geibi"
+tags: murder
 pubdate: "2003-01-24 00:10:00"
 factdate: "2003-01-24 00:09:00"
 categories: english

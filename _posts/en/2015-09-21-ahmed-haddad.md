@@ -1,6 +1,7 @@
 ---
 layout: post-en
 title: "Ahmed HADDAD"
+tags: "attempted murder"
 pubdate: "2015-09-21 00:10:00"
 factdate: "2013-08-17 00:09:00"
 categories: english
