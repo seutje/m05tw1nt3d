@@ -3,7 +3,7 @@ html, body {height:80%;}
 
 body {
 	margin:0 auto;
-	@include retinize('bg/i_bg_lint1', 'jpg');
+	@include retinize('https://fedpolbelgium.github.io/m05tw1nt3d/assets/img/bg/i_bg_lint1', 'jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
